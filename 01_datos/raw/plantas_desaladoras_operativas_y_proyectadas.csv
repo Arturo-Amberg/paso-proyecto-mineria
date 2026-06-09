@@ -1,0 +1,52 @@
+Empresa/Operador,Nombre de la Planta,Tipo de Planta,Region,Uso/Aplicacion,Estado Operacional,Capacidad (Valor),Ano de Puesta en Marcha,Latitude,Longitude
+Grupo EPM,Desaladora Tocopilla,Plantas deslinizadoras de agua de mar con capacidad mayor a 20 lps,Antofagasta,Agua Potable,En operacion,75,2018,-22.06666667,-70.18333333
+BHP,Spence Growth Option (SGO),Plantas deslinizadoras de agua de mar con capacidad mayor a 20 lps,Antofagasta,Minera,En operacion,1000,2021,-23.036586,-70.342505
+Engie,CTT Tocopilla,Plantas deslinizadoras de agua de mar con capacidad mayor a 20 lps,Antofagasta,Industrial,En operacion,22,2008,-22.1,-70.2
+Gasatacama,Mejillones,Plantas deslinizadoras de agua de mar con capacidad mayor a 20 lps,Antofagasta,Industrial,En operacion,30,2010,-23.090696,-70.417406
+Norgener,Tocopilla,Plantas deslinizadoras de agua de mar con capacidad mayor a 20 lps,Antofagasta,Industrial,En operacion,25,2013,-22.08333333,-70.2
+Empresa Electrica Cochrane Spa,Mejillones,Plantas deslinizadoras de agua de mar con capacidad mayor a 20 lps,Antofagasta,Industrial,En operacion,56,2014,-23.06298,-70.3659262
+Minera Mantos Copper,Minera Mantoverde,Plantas deslinizadoras de agua de mar con capacidad mayor a 20 lps,Atacama,Minera,En operacion,120,2014,-26.54103559,-70.69514669
+ECONSSA / Nueva Atacama,Planta Desaladora de Atacama,Plantas deslinizadoras de agua de mar con capacidad mayor a 20 lps,Atacama,Agua Potable,En operacion,450,2021,-27.06666667,-70.85
+AGUASCAP,Planta de Aguas CAP,Plantas deslinizadoras de agua de mar con capacidad mayor a 20 lps,Atacama,Minera,En operacion,600,2015,-26.86079,-70.81192
+Lundin Mining Corporation,Minera Candelaria,Plantas deslinizadoras de agua de mar con capacidad mayor a 20 lps,Atacama,Minera,En operacion,500,2013,-27.05386766,-70.84420942
+Guacolda,Huasco,Plantas deslinizadoras de agua de mar con capacidad mayor a 20 lps,Atacama,Industrial,En operacion,70,1997,-28.46359351,-71.25575047
+Electrica Ventanas SpA,Unidad 3 Ventanas,Plantas deslinizadoras de agua de mar con capacidad mayor a 20 lps,Valparaiso,Industrial,En operacion,28,2008,-32.69816,-71.45896
+Electrica Campiche SpA,Unidad 4 Ventanas,Plantas deslinizadoras de agua de mar con capacidad mayor a 20 lps,Valparaiso,Industrial,En operacion,30,2008,-32.70848,-71.46748
+Colbun,Central Termica Santa Mara,Plantas deslinizadoras de agua de mar con capacidad mayor a 20 lps,Bio Bio,Industrial,En operacion,33,2012,-37.03333333,-73.13333333
+Methanex,Cabo Negro,Plantas deslinizadoras de agua de mar con capacidad mayor a 20 lps,Magallanes,Industrial,En operacion,63,ND,-52.93175594,-70.80852134
+Minera Donia Ines de Collahuasi,Planta Desaladora Collahuasi,Plantas en construccion o prontas a entrar en operacion,Tarapaca,Minera,En Construccion,1050,2024,-20.80849,-70.20491
+Minera Teck,Quebrada Blanca Hipogeno,Plantas en construccion o prontas a entrar en operacion,Tarapaca,Minera,En Construccion,850,2023,-20.78237,-70.18884
+Capstone,Expansion Mantoverde,Plantas en construccion o prontas a entrar en operacion,Atacama,Minera,En Construccion,260,2024,-26.54103559,-70.69514669
+Minera los Pelambres,Fase inicial Ampliacion IV Los Pelambres,Plantas en construccion o prontas a entrar en operacion,Coquimbo,Minera,En Construccion,400,2023,-31.88200443,-71.49748081
+Grupo EPM,Planta Desaladora Antofagasta,Plantas en construccion o prontas a entrar en operacion,Antofagasta,Agua Potable,En Construccion,634,2024-2025,-23.5429464,-70.3991029
+Aguas Pacífico S.A.,Aconcagua,Plantas en construccion o prontas a entrar en operacion,Valparaiso,Multiproposito,En Construccion,1000,ND,-32.77906,-71.50027
+Codelco,Planta desaladora Distrito Norte,Plantas con evaluacion ambiental aprobada y con perspectivas de licitacion,Antofagasta,Minera,EIA Aprobado,1956,2025,-22.19985517,-70.22113003
+Antofagasta Minerals,Distrito Minero Centinela Etapas I y II,Plantas con evaluacion ambiental aprobada y con perspectivas de licitacion,Antofagasta,Minera,EIA Aprobado,140,2024,-22.731038,-70.279619
+Capstone,Santo Domingo,Plantas con evaluacion ambiental aprobada y con perspectivas de licitacion,Atacama,Minera,EIA Aprobado,30,2025,-26.6,-70.7
+Aguas Altiplano,Planta desaladora de Arica,Iniciativas y proyectos en evaluacion preliminar,Arica,Agua Potable,EIA en elaboracion,200,2025-2026,-18.5,-70.31666667
+Empresa Electrica Angamos S.A.,Ampliacion Angamos,Iniciativas y proyectos en evaluacion preliminar,Antofagasta,Industrial,DIA aprobado,158,ND,-23.06522239,-70.36865692
+Compania Regional Aguas Maritimas S.A.,Cramsa,Iniciativas y proyectos en evaluacion preliminar,Antofagasta,Multiproposito,EIA ingresado,8000,2026-2027,-23.85249856,-70.50561781
+Seven Seas Water Chile S.A.,Desaladora Baha Caldera,Iniciativas y proyectos en evaluacion preliminar,Atacama,Multiproposito,DIA aprobado,93,ND,-27.05266,-70.80807
+ENAPAC,Atacama,Iniciativas y proyectos en evaluacion preliminar,Atacama,Industrial,EIA Aprobado,1750,ND,-27.23817,-70.94953
+Nueva Union,Nueva Union,Iniciativas y proyectos en evaluacion preliminar,Atacama,Minera,EIA en elaboracion,970,ND,-28.83955,-71.44547
+Guacolda Energa S.A.,Plantas Desaladoras Guacolda,Iniciativas y proyectos en evaluacion preliminar,Atacama,Industrial,DIA aprobada,1400,ND,-28.46359351,-71.25575047
+Oceanus,Proyecto Azul,Iniciativas y proyectos en evaluacion preliminar,Coquimbo,Multiproposito,EIA en elaboracion,1200,2027,-30.02948897,-71.38601197
+Aguas del Valle S.A.,Planta Desaladora Coquimbo,Iniciativas y proyectos en evaluacion preliminar,Coquimbo,Agua Potable,EIA no admitido,1200,2026,-30.0194599,-71.38724691
+Desala,Huentelauquen,Iniciativas y proyectos en evaluacion preliminar,Coquimbo,Multiproposito,EIA en elaboracion,1000,2026,-31.64212009,-71.55144882
+Desala,Planta Desaladora Petorca,Iniciativas y proyectos en evaluacion preliminar,ValparaÃ­so,Multiproposito,EIA en elaboracion,1200,2026,-32.46388,-71.43143
+Desala,Planta O'Higgins,Iniciativas y proyectos en evaluacion preliminar,Ohiggins,Multiproposito,EIA en elaboracion,3000,ND,-34.25272,-71.98157
+DOH / Aguas del Altiplano,Caleta Chanavayita,Plantas menores en operacion,Tarapaca,Agua Potable,En operacion,4.1,2014,-20.6995638,-70.1872943
+Grupo EPM,Planta modular 1 Taltal,Plantas menores en operacion,Antofagasta,Agua Potable,En operacion,4,2019,-25.39217682,-70.47394315
+Grupo EPM,Planta modular 2 Taltal,Plantas menores en operacion,Antofagasta,Agua Potable,En operacion,5,2019,-25.39217682,-70.47394315
+Grupo EPM,Planta modular 3 Taltal,Plantas menores en operacion,Antofagasta,Agua Potable,En operacion,11,2019,-25.39217682,-70.47394315
+Compania Minera Mantos La Luna,Mantos de la Luna,Plantas menores en operacion,Antofagasta,Industrial,En operacion,5,2005,-22.38305174,-70.1802533
+Enami,Planta J.A Moreno Taltal,Plantas menores en operacion,Antofagasta,Industrial,En operacion,15,ND,-25.39865533,-70.47255073
+Moly Cop Chile S.A.,Planta Desaladora Moly-Cop,Plantas menores en operacion,Antofagasta,Industrial,En operacion,4.3,ND,-23.08495749,-70.40347389
+Engie,CTA Mejillones,Plantas menores en operacion,Antofagasta,Industrial,En operacion,9,1996,-23.0878416,-70.41123544
+Engie,CTM Mejillones,Plantas menores en operacion,Antofagasta,Industrial,En operacion,6,1996,-23.0878416,-70.41123544
+Direccion de Obras Hidraulicas,Paposo,Plantas menores en operacion,Antofagasta,Agua Potable,En operacion,1.4,2013,-25.00970725,-70.46705571
+Minera Las Cenizas,Las Cenizas Taltal - Las Luces,Plantas menores en operacion,Antofagasta,Industrial,En operacion,9.3,1996,-25.633654,-70.63359385
+DOH,Comite APR Chungungo,Plantas menores en operacion,Coquimbo,Agua Potable,En operacion,5.6,2012,-29.45143177,-71.30560009
+Aguas San Isidro,Pichidangui,Plantas menores en operacion,Coquimbo,Agua Potable,En operacion,10,2023,-32.1532771,-71.51089321
+Municipalidad de la Ligua,Planta La Ligua,Plantas menores en operacion,Valparaiso,Agua Potable,En operacion,1,2019,-32.2888443,-71.47418804
+Direccion de Obras Hidraulicas,Islas Huichas,Plantas menores en operacion,Aysen,Agua Potable,En operacion,2.8,2014,-45.15444148,-73.52146209

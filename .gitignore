@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Datos externos grandes (no incluidos en el repo)
+DerechosAgua.xlsx
+
+# Salidas temporales
+*.log

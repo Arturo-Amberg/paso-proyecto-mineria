@@ -1,0 +1,32 @@
+Mine,Segment,MAPE,WR,Skill,MAE,N_obs
+zaldivar,LC,6.65,72.7,45.79,0.57,22.0
+atacama kozan,SM,7.02,59.8,20.96,0.15,87.0
+antucoya,SM,7.56,72.4,55.98,0.52,87.0
+lomas bayas,SM,8.25,70.1,24.72,0.57,87.0
+franke,SM,9.01,78.2,62.3,0.19,87.0
+centinela_oxidos,SM,9.11,71.3,53.19,0.72,87.0
+zaldivar,SM,10.03,70.8,50.82,0.87,65.0
+otros,LC,10.31,62.1,36.68,1.21,87.0
+mantos blancos,SM,10.66,54.0,8.66,0.51,87.0
+candelaria,LC,11.08,70.8,38.88,1.29,65.0
+escondida,LC,11.09,66.7,21.54,10.45,87.0
+collahuasi,LC,11.14,67.8,28.48,5.2,87.0
+radomiro tomic,LC,11.16,70.1,35.98,2.81,87.0
+ojos del salado,SM,11.57,72.4,53.62,0.31,87.0
+candelaria,SM,12.32,86.4,61.27,1.12,22.0
+gabriela mistral,LC,12.52,69.7,42.25,1.13,33.0
+el teniente,LC,12.59,69.0,43.35,4.04,87.0
+el abra,SM,12.85,59.8,22.07,1.02,87.0
+gabriela mistral,SM,12.92,66.7,30.84,1.19,54.0
+andina,LC,13.52,58.6,17.01,2.1,87.0
+sierra gorda,LC,13.59,75.9,46.16,1.86,54.0
+los bronces,LC,14.3,78.2,62.89,3.16,87.0
+el soldado,SM,15.22,64.4,20.74,0.7,87.0
+caserones,LC,15.4,64.4,27.0,1.49,87.0
+los pelambres,LC,16.31,65.5,25.09,3.95,87.0
+mantoverde,SM,16.55,57.5,8.03,0.84,87.0
+andacollo,SM,19.98,80.5,54.61,0.93,87.0
+centinela_sulfuros,LC,20.7,72.4,43.48,2.62,87.0
+sierra gorda,SM,20.77,75.8,41.52,2.5,33.0
+chuquicamata,LC,23.52,66.7,39.18,5.1,87.0
+ministro hales,LC,24.24,72.4,45.83,2.68,87.0
