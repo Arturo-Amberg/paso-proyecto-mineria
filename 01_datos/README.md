@@ -28,10 +28,43 @@ Todos los archivos de entrada originales usados en el pipeline.
 
 ## `procesados/` — Datos Listos para Modelar
 
-Archivos ya transformados que entran directamente a los notebooks de pronóstico.
+Archivos ya transformados que entran directamente a los notebooks de pronóstico y al script del dashboard.
 
 | Archivo | Qué contiene |
 |---------|-------------|
-| `dataset_principal_entrenamiento_modelos.csv` | **Dataset maestro de entrenamiento**: producción mensual por faena + features de precio del cobre, tipo de cambio, lags (1–12 meses), características de la faena (tamaño, empresa, tipo de mineral). Es el archivo de entrada de ambos modelos. |
+| `dataset_principal_entrenamiento_modelos.csv` | **Dataset maestro de entrenamiento**: producción mensual por faena + features de precio del cobre, tipo de cambio, lags (1–12 meses), características de la faena (tamaño, empresa, tipo de mineral). Entrada de ambos modelos. |
+| `produccion_anual_historica_todas_faenas.csv` | Producción anual histórica de todas las faenas en formato largo. El dashboard la lee directamente para construir los gráficos de producción por cluster. |
+| `produccion_mensual_cochilco_formato_dashboard.xlsx` | Producción mensual en el formato original COCHILCO que consume el dashboard (distinto al archivo de `Bases/` — tiene diferente estructura de columnas). |
 | `metadata_faenas_mineras.csv` | Tabla de referencia por faena: región, empresa operadora, tipo de mineral (sulfuro/óxido/mixto), clasificación de tamaño (SmallMed / LargeColossal), coordenadas |
 | `asignacion_clusters_final_faenas.csv` | Asignación final de cada faena a su cluster geoespacial (resultado del clustering DavBou HDBSCAN) |
+| `puente_faenas_cluster_id_coordenadas_tier.csv` | Tabla puente entre nombre de faena y cluster: 40 filas con `Match_Key`, coordenadas lat/lon, `Cluster_ID_Asignado`, `Tier_Asignado` (ORO/PLATA/BRONCE) y crecimiento acumulado 4 años. Usada por el dashboard para vincular faenas al mapa. |
+
+---
+
+## `geoespacial/` — Capas GIS para el Mapa
+
+Datos vectoriales usados como capas de contexto en el mapa interactivo.
+
+### `areas_protegidas_snaspe/` — Áreas Silvestres Protegidas del Estado
+
+Shapefile del SNASPE (Sistema Nacional de Áreas Silvestres Protegidas). El dashboard lo usa para mostrar la proximidad de faenas y relaves a parques nacionales y reservas.
+
+| Archivo | Descripción |
+|---------|-------------|
+| `areas_protegidas_snaspe.shp` | Geometrías de polígonos (~92 MB, **LFS**) |
+| `areas_protegidas_snaspe.dbf` | Atributos: nombre, tipo de área, superficie (**LFS**) |
+| `areas_protegidas_snaspe.shx` | Índice espacial (**LFS**) |
+| `areas_protegidas_snaspe.prj` | Sistema de coordenadas (WGS84) (**LFS**) |
+| `areas_protegidas_snaspe.cpg` | Codificación de caracteres (**LFS**) |
+
+### `proyectos_sigex_exploracion/` — Proyectos de Exploración Minera SIGEX
+
+Registro SERNAGEOMIN de proyectos de exploración activos: 931 proyectos de cobre en los 14 clusters.
+
+| Archivo | Descripción |
+|---------|-------------|
+| `catastro_proyectos_exploracion_minera_sigex.csv` | Tabla completa: nombre, empresa, región, tipo de mineral, etapa de exploración, coordenadas |
+| `proyectos_sigex_geometrias.shp` | Puntos de ubicación de cada proyecto (**LFS**) |
+| `proyectos_sigex_geometrias.dbf` | Atributos del shapefile (**LFS**) |
+| `proyectos_sigex_geometrias.shx` | Índice espacial (**LFS**) |
+| `proyectos_sigex_geometrias.prj` | Sistema de coordenadas (**LFS**) |

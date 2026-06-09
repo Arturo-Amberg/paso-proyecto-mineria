@@ -25,6 +25,7 @@ Predice producción anual (kt Cu) para **26 faenas**, horizontes 2026–2032.
 | `resultados/proyecciones_26_faenas_anuales_2026_2032.csv` | **Salida principal**: proyección de producción anual por faena y año |
 | `resultados/proyecciones_escenarios_base_alcista_bajista.csv` | Tres escenarios: base (modelo), alcista (+15%), bajista (−15%) |
 | `resultados/comparacion_todos_modelos_anuales_mape_wr.csv` | Scoreboard de todos los modelos probados: MAPE y Win Rate por horizonte y faena |
+| `resultados/test_diebold_mariano_significancia_modelo.csv` | Test Diebold-Mariano por faena: estadístico DM, p-valor, significancia (*, **), Win Rate y MASE. Prueba si el modelo supera estadísticamente al naive. |
 
 ---
 

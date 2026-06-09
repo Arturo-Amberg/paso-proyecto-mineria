@@ -10,6 +10,7 @@ Dashboard HTML con mapa Leaflet que muestra los 18 clusters mineros, las 26 faen
 |---------|-------------|
 | `dashboard_mineria_chile_interactivo.html` | **Dashboard ya construido** (~13 MB). Abrir directamente en el navegador, no requiere servidor ni instalación. (**archivo LFS**) |
 | `construir_dashboard.py` | Script que genera el dashboard desde cero. Lee los CSVs de clustering y pronósticos y produce el HTML. |
+| `datos_clusters_poligonos_y_centroides_para_mapa.json` | JSON con los 18 clusters: polígono convexo (`hull`), centroide, etiqueta, color, región. El script lo usa para dibujar las fronteras de cada cluster en el mapa Leaflet. |
 
 ---
 
