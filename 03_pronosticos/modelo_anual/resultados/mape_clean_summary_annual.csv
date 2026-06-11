@@ -1,0 +1,6 @@
+Metric,Value
+MAPE_global_%,23.84
+MAPE_clean_%,21.39
+N_mines_all,24
+N_mines_clean,22
+Excluded_mines,michilla;salvador

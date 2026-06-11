@@ -1,0 +1,60 @@
+ID,Empresa / Titular,Nombre de la Planta,Región,Sector,Estado,Tecnología,Capacidad (L/s),Año,Latitud,Longitud
+1,Electrica Angamos SpA.,Angamos,Antofagasta,Industrial,En operación,Osmosis Reversa,56,2015,-23.065222,-70.368656
+2,BHP,Planta 0 y ampliaciones EWS y EWSE,Antofagasta,Minería,En operación,Osmosis Reversa,3858,2017-18,-23.750000,-70.466666
+3,Haldeman Mining Company S.A.,Michilla,Antofagasta,Minería,En operación,Osmosis Reversa,70,2019,-22.687818,-70.195451
+4,Antofagasta Minerals,Distrito Centinela (Esperanza + El Tesoro),Antofagasta,Minería,En operación,Osmosis Reversa,50,2010,-22.731038,-70.279618
+5,KGHM International,Minera Sierra Gorda,Antofagasta,Minería,En operación,Osmosis Reversa,63,2014,-22.875460,-69.361385
+6,Antofagasta Minerals,Minera Antucoya,Antofagasta,Minería,En operación,Osmosis Reversa,30,2017,-22.632530,-69.878570
+7,Grupo EPM,Planta Desaladora Norte - Antofagasta,Antofagasta,Agua Potable,En operación,Osmosis Reversa,1053,2002,-23.542946,-70.399102
+8,Grupo EPM,Desaladora Tocopilla,Antofagasta,Agua Potable,En operación,Osmosis Reversa,75,2018,-22.066666,-70.183333
+9,BHP,Spence Growth Option (SGO),Antofagasta,Minería,En operación,Osmosis Reversa,1000,2021,-23.036586,-70.342504
+10,Engie,CTT Tocopilla,Antofagasta,Industrial,En operación,MVC / OR,22,2008,-22.100000,-70.199999
+11,Gasatacama,Mejillones,Antofagasta,Industrial,En operación,Osmosis Reversa,30,2010,-23.090696,-70.417405
+12,Norgener,Tocopilla,Antofagasta,Industrial,En operación,MVC,25,2013,-22.083333,-70.200000
+13,Empresa Eléctrica Cochrane Spa,Mejillones,Antofagasta,Industrial,En operación,TVC,56,2014,-23.062980,-70.365926
+14,Minera Mantos Copper,Minera Mantoverde,Atacama,Minería,En operación,Osmosis Reversa,120,2014,-26.541035,-70.695146
+15,ECONSSA / Nueva Atacama,Planta Desaladora de Atacama,Atacama,Agua Potable,En operación,Osmosis Reversa,450,2021,-27.066666,-70.850000
+16,AGUASCAP,Planta de Aguas CAP,Atacama,Minería,En operación,Osmosis Reversa,600,2015,-26.860790,-70.811920
+17,Lundin Mining Corporation,Minera Candelaria,Atacama,Minería,En operación,Osmosis Reversa,500,2013,-27.053867,-70.844209
+18,Guacolda,Huasco,Atacama,Industrial,En operación,MVC,70,1997,-28.463593,-71.255750
+19,Eléctrica Ventanas SpA,Unidad 3 Ventanas,Valparaiso,Industrial,En operación,MVC,28,2008,-32.698160,-71.458960
+20,Eléctrica Campiche SpA,Unidad 4 Ventanas,Valparaiso,Industrial,En operación,TVC,30,2008,-32.708480,-71.467480
+21,Colbún,Central Térmica Santa María,Bio Bio,Industrial,En operación,MVC,33,2012,-37.033333,-73.133333
+22,Methanex,Cabo Negro,Magallanes,Industrial,En operación,Térmica / OR,63,S/I,-52.931755,-70.808521
+23,Minera Doña Inés de Collahuasi,Planta Desaladora Collahuasi,Tarapacá,Minería,En Construcción,Osmosis Reversa,1050,2024,-20.808489,-70.204909
+24,Minera Teck,Quebrada Blanca Hipógeno,Tarapacá,Minería,En Construcción,Osmosis Reversa,850,2023,-20.782370,-70.188839
+25,Capstone,Expansión Mantoverde,Atacama,Minería,En Construcción,Osmosis Reversa,260,2024,-26.541035,-70.695146
+26,Minera los Pelambres,Fase inicial Ampliación IV Los Pelambres,Coquimbo,Minería,En Construcción,Osmosis Reversa,400,2023,-31.882004,-71.497480
+27,Grupo EPM,Planta Desaladora Antofagasta,Antofagasta,Agua Potable,En Construcción,Osmosis Reversa,634,2024-2025,-23.542946,-70.399102
+28,Aguas Pacífico S.A.,Aconcagua,Valparaiso,Multipropósito,En Construcción,Osmosis Reversa,1000,S/I,-32.779060,-71.500270
+29,Codelco,Planta desaladora Distrito Norte,Antofagasta,Minería,EIA Aprobado,Osmosis Reversa,1956,2025,-22.199855,-70.221130
+30,Antofagasta Minerals,Distrito Minero Centinela Etapas I y II,Antofagasta,Minería,EIA Aprobado,Osmosis Reversa,140,2024,-22.731038,-70.279618
+31,Capstone,Santo Domingo,Atacama,Minería,EIA Aprobado,S/I,30,2025,-26.600000,-70.699999
+32,Aguas Altiplano,Planta desaladora de Arica,Arica,Agua Potable,EIA en elaboración,Osmosis Reversa,200,2025-2026,-18.500000,-70.316666
+33,Empresa Eléctrica Angamos S.A.,Ampliación Angamos,Antofagasta,Industrial,DIA aprobado,Osmosis Reversa,158,S/I,-23.065222,-70.368656
+34,Compañía Regional Aguas Maritimas S.A.,Cramsa,Antofagasta,Multipropósito,EIA ingresado,Osmosis Reversa,8000,2026-2027,-23.852498,-70.505617
+35,Seven Seas Water Chile S.A.,Desaladora Bahía Caldera,Atacama,Multipropósito,DIA aprobado,Osmosis Reversa,93,S/I,-27.052659,-70.808070
+36,ENAPAC,Planta ENAPAC,Atacama,Industrial,EIA Aprobado,Osmosis Reversa,1750,S/I,-27.238170,-70.949529
+37,Nueva Unión,Nueva Unión,Atacama,Minería,EIA en elaboración,Osmosis Reversa,970,S/I,-28.839549,-71.445470
+38,Guacolda Energía S.A.,Plantas Desaladoras Guacolda,Atacama,Industrial,DIA aprobada,Osmosis Reversa,1400,S/I,-28.463593,-71.255750
+39,Oceanus,Proyecto Azul,Coquimbo,Multipropósito,EIA en elaboración,Osmosis Reversa,1200,2027,-30.029488,-71.386011
+40,Aguas del Valle S.A.,Planta Desaladora Coquimbo,Coquimbo,Agua Potable,EIA no admitido,Osmosis Reversa,1200,2026,-30.019459,-71.387246
+41,Desala,Huentelauquén,Coquimbo,Multipropósito,EIA en elaboración,Osmosis Reversa,1000,2026,-31.642120,-71.551448
+42,Desala,Planta Desaladora Petorca,Valparaíso,Multipropósito,EIA en elaboración,Osmosis Reversa,1200,2026,-32.463879,-71.431430
+43,Desala,Planta O'Higgins,O'Higgins,Multipropósito,EIA en elaboración,Osmosis Reversa,3000,S/I,-34.252720,-71.981569
+ID_Menor,Empresa / Titular,Nombre de la Planta / Instalación,Región,Sector,Estado,Tecnología,Capacidad (L/s),Año,Latitud (Decimal),Longitud (Decimal)
+1,DOH / Aguas del Altiplano,DOH Aguas del Altiplano,Tarapacá,Agua Potable,En operación,Osmosis Reversa,4.10,2014,-20.700000,-70.183333
+2,Grupo EPM,Planta EPM 1,Antofagasta,Agua Potable,En operación,Osmosis Reversa,4.00,2019,-25.383333,-70.450000
+3,Grupo EPM,Planta EPM 2,Antofagasta,Agua Potable,En operación,Osmosis Reversa,5.00,2019,-25.383333,-70.450000
+4,Grupo EPM,Planta EPM 3,Antofagasta,Agua Potable,En operación,Osmosis Reversa,11.00,2019,-25.383333,-70.450000
+5,Cía. Minera Mantos La Luna,Mantos La Luna,Antofagasta,Industrial,En operación,S/I,5.00,2005,-22.633333,-70.300000
+6,Enami,Planta Enami,Antofagasta,Industrial,En operación,S/I,15.00,S/I,-25.650000,-70.783333
+7,Moly Cop Chile S.A.,Moly Cop,Antofagasta,Industrial,En operación,S/I,4.30,S/I,-23.133333,-70.666667
+8,Engie,Engie Unidad 1,Antofagasta,Industrial,En operación,MVC,9.00,1996,-23.083333,-70.400000
+9,Engie,Engie Unidad 2,Antofagasta,Industrial,En operación,MVC,6.00,1996,-23.083333,-70.433333
+10,Dirección de Obras Hidráulicas,DOH Antofagasta,Antofagasta,Agua Potable,En operación,Osmosis Reversa,1.40,2013,-25.000000,-70.783333
+11,Minera Las Cenizas,Las Cenizas,Antofagasta,Industrial,En operación,S/I,9.30,1996,-26.150000,-70.833333
+12,DOH,DOH Coquimbo,Coquimbo,Agua Potable,En operación,Osmosis Reversa,5.60,2012,-30.466667,-71.366667
+13,Aguas San Isidro,San Isidro,Coquimbo,Agua Potable,En operación,Osmosis Reversa,10.00,2023,-32.000000,S/I
+14,Municipalidad de la Ligua,Muni. La Ligua,Valparaíso,Agua Potable,En operación,Osmosis Reversa,1.00,2019,-32.733333,-71.416667
+15,Dirección de Obras Hidráulicas,DOH Aysén,Aysén,Agua Potable,En operación,Osmosis Reversa,2.80,2014,-45.250000,-73.883333

@@ -1,0 +1,41 @@
+Match_Key,Lat_Mina,Lon_Mina,Cluster_ID_Original,Tier_Asignado,Cluster_ID_Final,Override_Applied,Override_Reason,Accum_Growth_4Y
+altos de punitaqui,-30.86,-71.23,IV-2,BRONCE,IV-2,False,,1735.0196838378906
+amalia,-32.72,-70.97,V-1,ORO,V-1,False,,-51.17639458896136
+andacollo,-30.23,-71.08,IV-4,PLATA,IV-4,False,,-59.830879705109005
+andina,-32.85,-70.59,RM-1,ORO,RM-0,True,dashboard override: RM-1 → RM-0,-2.1936585804659776
+antucoya,-22.63,-69.84,II-4,BRONCE,II-1,True,dashboard override: II-4 → II-1,-20.62501308256266
+atacama kozan,-27.5,-70.26,III-2,ORO,II-1,True,dashboard override: III-2 → II-1,-8.825862320851344
+candelaria,-27.51,-70.29,III-2,ORO,III-2,False,,-4.439322754272775
+caserones,-28.16,-69.79,III-2,ORO,III-2,False,,-7.198156457966699
+centinela,-23.01,-69.1,II-5,ORO,II-5,False,,14.568162934804388
+cerro colorado,-20.21,-70.15,I-0,BRONCE,I-0,False,,0.0
+cerro negro,-32.58,-70.88,V-1,ORO,V-0,True,dashboard override: V-1 → V-0,-11.789055398072993
+chuquicamata,-22.29,-68.9,II-6,ORO,II-2,True,dashboard override: II-6 → II-2,-7.064636808037439
+collahuasi,-20.98,-68.64,I-1,PLATA,I-1,False,,-0.0175451810881562
+el abra,-22.45,-68.92,II-6,ORO,II-2,True,dashboard override: II-6 → II-2,-9.086745241487826
+el soldado,-32.65,-71.16,V-1,ORO,V-0,True,dashboard override: V-1 → V-0,18.63312476858006
+el teniente,-34.23,-70.35,VI-1,ORO,VI-0,True,dashboard override: VI-1 → VI-0,-28.24812520712291
+escondida,-24.27,-69.07,II-3,PLATA,II-0,True,dashboard override: II-3 → II-0,-50.87119499267535
+franke,-25.83,-69.87,II-0,BRONCE,II-6,True,dashboard override: II-0 → II-6,16.734020237733763
+gabriela mistral,-23.4,-68.82,II-5,ORO,II-2,True,dashboard override: II-5 → II-2,20.31147967104451
+haldeman,-20.2,-70.1,I-0,BRONCE,Otros,True,dashboard override: I-0 → Otros,0.0
+las cenizas,-32.48,-71.2,V-1,ORO,V-1,False,,-2.6170426001414286
+lomas bayas,-23.42,-69.15,II-5,ORO,II-3,True,dashboard override: II-5 → II-3,-8.848703294696946
+los bronces,-33.15,-70.28,RM-0,PLATA,RM-0,False,dashboard override: RM-0 → RM-0,-38.56664342273289
+los pelambres,-31.71,-70.45,IV-1,BRONCE,IV-1,False,,10.317688369933675
+mantos blancos,-23.43,-70.05,II-1,PLATA,II-1,False,,-19.46218348647733
+mantos de la luna,-22.2,-70.2,II-4,BRONCE,II-4,False,,30.8993918096389
+mantoverde,-26.55,-70.62,III-0,PLATA,III-1,True,dashboard override: III-0 → III-1,11.227921832800158
+michilla,-22.71,-70.25,II-4,BRONCE,II-4,False,,9.4350799336878
+ministro hales,-22.37,-68.92,II-6,ORO,II-2,True,dashboard override: II-6 → II-2,28.23679810109518
+ojos del salado,-27.52,-70.3,III-2,ORO,III-2,False,,-13.32214893978854
+pampa camarones,-18.88,-70.12,XV-0,BRONCE,XV-0,False,,29.61729648289647
+punta del cobre,-27.48,-70.28,III-2,ORO,III-2,False,,-2.1449577243562934
+quebrada blanca,-20.99,-68.81,I-1,PLATA,I-1,False,,54.78473860128792
+radomiro tomic,-22.21,-68.93,II-6,ORO,II-2,True,dashboard override: II-6 → II-2,12.12266741472579
+salvador,-26.31,-70.01,III-0,PLATA,III-0,False,,16.07212195792339
+san geronimo,-29.98,-70.95,IV-3,BRONCE,IV-3,False,,-22.38089002229372
+sierra gorda,-22.88,-69.03,II-5,ORO,II-5,False,,53.25012682784337
+spence,-22.92,-69.25,II-5,ORO,II-1,True,dashboard override: II-5 → II-1,-0.5375431299334119
+tres valles,-31.65,-71.02,IV-1,BRONCE,IV-1,False,,3634.2436721724303
+zaldivar,-24.21,-69.11,II-3,PLATA,II-0,True,dashboard override: II-3 → II-0,43.97473114008911

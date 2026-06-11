@@ -1,0 +1,29 @@
+Mine,Segment,WR%,MAE,MdAPE%,Skill%,MASE,DM p-val,Sig,Verdict
+Antucoya,Medium,78.3,0.74,8.4,13.0,0.870,0.005,***,MODEL★
+Escondida,Colossal,77.8,15.23,15.7,15.5,0.845,0.030,**,MODEL★
+Collahuasi,Colossal,77.8,11.53,18.3,9.0,0.910,0.087,*,MODEL★
+Andina,Large,66.7,1.69,8.8,33.6,0.664,0.040,**,MODEL★
+Caserones,Large,66.7,1.98,10.0,14.3,0.857,0.102,,TIE
+Radomiro Tomic,Colossal,66.7,2.83,10.8,13.2,0.868,0.143,,TIE
+Centinela,Large,66.7,2.26,21.1,23.7,0.763,0.004,***,MODEL★
+Atacama Kozan,Small,65.4,0.15,5.2,29.9,0.701,0.008,***,MODEL★
+Lomas Bayas,Medium,65.4,0.69,8.2,9.6,0.904,0.004,***,MODEL★
+Franke,Small,65.4,0.45,18.3,-1.1,1.011,0.158,,TIE
+Mantos Blancos,Small,65.4,0.59,9.7,7.1,0.929,0.041,**,MODEL★
+El Soldado,Small,61.5,0.71,11.9,18.4,0.816,0.031,**,MODEL★
+Andacollo,Medium,57.7,1.95,44.2,0.4,0.996,0.839,,TIE
+El Abra,Medium,57.7,1.91,21.6,1.0,0.990,0.116,,TIE
+Otros,Large,55.6,2.24,18.2,12.8,0.872,0.060,*,MODEL★
+Chuquicamata,Colossal,55.6,8.54,48.0,11.1,0.889,0.789,,TIE
+Mantoverde,Small,53.8,1.39,11.7,0.3,0.997,0.868,,TIE
+Sierra Gorda,Medium,47.6,3.97,31.3,1.6,0.984,0.110,,TIE
+Ojos del Salado,Small,46.2,0.89,42.2,4.5,0.955,0.656,,TIE
+Zaldivar,Medium,45.5,1.46,18.9,-17.3,1.173,0.042,**,NAIVE★
+Ministro Hales,Large,44.4,5.31,26.4,-4.3,1.043,0.911,,TIE
+Candelaria,Medium,38.5,1.97,13.5,-22.7,1.227,0.368,,TIE
+Gabriela Mistral,Medium,35.7,1.36,13.5,3.6,0.964,0.295,,TIE
+El Teniente,Colossal,33.3,10.30,40.5,-20.6,1.206,0.302,,TIE
+Cerro Colorado,Medium,26.9,3.36,55.4,-11.1,1.111,0.372,,TIE
+Salvador,Small,15.4,2.82,140.9,-15.2,1.152,0.006,***,NAIVE★
+Los Bronces,Colossal,11.1,11.51,77.4,-17.2,1.172,0.000,***,NAIVE★
+Los Pelambres,Colossal,11.1,5.24,14.4,-27.4,1.274,0.123,,TIE

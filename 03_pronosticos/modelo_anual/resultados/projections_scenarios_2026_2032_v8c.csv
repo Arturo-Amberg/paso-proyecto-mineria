@@ -1,0 +1,652 @@
+Mine,ForecastYear,Horizonte,Scenario,Pred,Origin_Prod,Mine_Size,Size_Label,Segment
+andacollo,2026,1,bear,34.1,50.5,1,Medium,SM
+andacollo,2026,1,base,34.1,50.5,1,Medium,SM
+andacollo,2026,1,bull,34.7,50.5,1,Medium,SM
+andacollo,2027,2,bear,28.7,50.5,1,Medium,SM
+andacollo,2027,2,base,28.7,50.5,1,Medium,SM
+andacollo,2027,2,bull,29.6,50.5,1,Medium,SM
+andacollo,2028,3,bear,27.3,50.5,1,Medium,SM
+andacollo,2028,3,base,27.3,50.5,1,Medium,SM
+andacollo,2028,3,bull,28.7,50.5,1,Medium,SM
+andacollo,2029,4,bear,22.9,50.5,1,Medium,SM
+andacollo,2029,4,base,22.9,50.5,1,Medium,SM
+andacollo,2029,4,bull,22.9,50.5,1,Medium,SM
+andacollo,2030,5,bear,15.3,50.5,1,Medium,SM
+andacollo,2030,5,base,15.3,50.5,1,Medium,SM
+andacollo,2030,5,bull,15.8,50.5,1,Medium,SM
+andacollo,2031,6,bear,13.2,50.5,1,Medium,SM
+andacollo,2031,6,base,13.2,50.5,1,Medium,SM
+andacollo,2031,6,bull,13.9,50.5,1,Medium,SM
+andacollo,2032,7,bear,13.0,50.5,1,Medium,SM
+andacollo,2032,7,base,13.0,50.5,1,Medium,SM
+andacollo,2032,7,bull,13.8,50.5,1,Medium,SM
+andina,2026,1,bear,171.8,181.6,3,Colossal,LC
+andina,2026,1,base,171.8,181.6,3,Colossal,LC
+andina,2026,1,bull,172.2,181.6,3,Colossal,LC
+andina,2027,2,bear,167.3,181.6,3,Colossal,LC
+andina,2027,2,base,167.3,181.6,3,Colossal,LC
+andina,2027,2,bull,167.6,181.6,3,Colossal,LC
+andina,2028,3,bear,178.6,181.6,3,Colossal,LC
+andina,2028,3,base,178.6,181.6,3,Colossal,LC
+andina,2028,3,bull,178.0,181.6,3,Colossal,LC
+andina,2029,4,bear,174.0,181.6,3,Colossal,LC
+andina,2029,4,base,174.0,181.6,3,Colossal,LC
+andina,2029,4,bull,171.8,181.6,3,Colossal,LC
+andina,2030,5,bear,164.9,181.6,3,Colossal,LC
+andina,2030,5,base,164.9,181.6,3,Colossal,LC
+andina,2030,5,bull,163.5,181.6,3,Colossal,LC
+andina,2031,6,bear,155.9,181.6,3,Colossal,LC
+andina,2031,6,base,155.9,181.6,3,Colossal,LC
+andina,2031,6,bull,155.5,181.6,3,Colossal,LC
+andina,2032,7,bear,148.8,181.6,3,Colossal,LC
+andina,2032,7,base,148.8,181.6,3,Colossal,LC
+andina,2032,7,bull,150.2,181.6,3,Colossal,LC
+antucoya,2026,1,bear,75.8,81.2,1,Medium,SM
+antucoya,2026,1,base,75.8,81.2,1,Medium,SM
+antucoya,2026,1,bull,73.4,81.2,1,Medium,SM
+antucoya,2027,2,bear,73.2,81.2,1,Medium,SM
+antucoya,2027,2,base,73.2,81.2,1,Medium,SM
+antucoya,2027,2,bull,71.3,81.2,1,Medium,SM
+antucoya,2028,3,bear,74.5,81.2,1,Medium,SM
+antucoya,2028,3,base,74.5,81.2,1,Medium,SM
+antucoya,2028,3,bull,72.9,81.2,1,Medium,SM
+antucoya,2029,4,bear,72.9,81.2,1,Medium,SM
+antucoya,2029,4,base,72.9,81.2,1,Medium,SM
+antucoya,2029,4,bull,70.0,81.2,1,Medium,SM
+antucoya,2030,5,bear,68.8,81.2,1,Medium,SM
+antucoya,2030,5,base,68.8,81.2,1,Medium,SM
+antucoya,2030,5,bull,67.1,81.2,1,Medium,SM
+antucoya,2031,6,bear,59.1,81.2,1,Medium,SM
+antucoya,2031,6,base,59.1,81.2,1,Medium,SM
+antucoya,2031,6,bull,58.4,81.2,1,Medium,SM
+antucoya,2032,7,bear,59.3,81.2,1,Medium,SM
+antucoya,2032,7,base,59.3,81.2,1,Medium,SM
+antucoya,2032,7,bull,59.3,81.2,1,Medium,SM
+atacama kozan,2026,1,bear,11.9,11.6,0,Small,SM
+atacama kozan,2026,1,base,11.9,11.6,0,Small,SM
+atacama kozan,2026,1,bull,11.2,11.6,0,Small,SM
+atacama kozan,2027,2,bear,11.5,11.6,0,Small,SM
+atacama kozan,2027,2,base,11.5,11.6,0,Small,SM
+atacama kozan,2027,2,bull,10.7,11.6,0,Small,SM
+atacama kozan,2028,3,bear,12.2,11.6,0,Small,SM
+atacama kozan,2028,3,base,12.2,11.6,0,Small,SM
+atacama kozan,2028,3,bull,11.0,11.6,0,Small,SM
+atacama kozan,2029,4,bear,11.9,11.6,0,Small,SM
+atacama kozan,2029,4,base,11.9,11.6,0,Small,SM
+atacama kozan,2029,4,bull,10.2,11.6,0,Small,SM
+atacama kozan,2030,5,bear,10.7,11.6,0,Small,SM
+atacama kozan,2030,5,base,10.7,11.6,0,Small,SM
+atacama kozan,2030,5,bull,9.5,11.6,0,Small,SM
+atacama kozan,2031,6,bear,9.5,11.6,0,Small,SM
+atacama kozan,2031,6,base,9.5,11.6,0,Small,SM
+atacama kozan,2031,6,bull,8.8,11.6,0,Small,SM
+atacama kozan,2032,7,bear,8.1,11.6,0,Small,SM
+atacama kozan,2032,7,base,8.1,11.6,0,Small,SM
+atacama kozan,2032,7,bull,7.8,11.6,0,Small,SM
+candelaria,2026,1,bear,123.8,125.2,2,Large,LC
+candelaria,2026,1,base,123.8,125.2,2,Large,LC
+candelaria,2026,1,bull,119.3,125.2,2,Large,LC
+candelaria,2027,2,bear,113.2,125.2,2,Large,LC
+candelaria,2027,2,base,113.2,125.2,2,Large,LC
+candelaria,2027,2,bull,108.5,125.2,2,Large,LC
+candelaria,2028,3,bear,110.7,125.2,2,Large,LC
+candelaria,2028,3,base,110.7,125.2,2,Large,LC
+candelaria,2028,3,bull,106.4,125.2,2,Large,LC
+candelaria,2029,4,bear,109.2,125.2,2,Large,LC
+candelaria,2029,4,base,109.2,125.2,2,Large,LC
+candelaria,2029,4,bull,103.9,125.2,2,Large,LC
+candelaria,2030,5,bear,109.7,125.2,2,Large,LC
+candelaria,2030,5,base,109.7,125.2,2,Large,LC
+candelaria,2030,5,bull,105.3,125.2,2,Large,LC
+candelaria,2031,6,bear,104.4,125.2,2,Large,LC
+candelaria,2031,6,base,104.4,125.2,2,Large,LC
+candelaria,2031,6,bull,101.6,125.2,2,Large,LC
+candelaria,2032,7,bear,103.4,125.2,2,Large,LC
+candelaria,2032,7,base,103.4,125.2,2,Large,LC
+candelaria,2032,7,bull,100.4,125.2,2,Large,LC
+capstone copper (4),2026,1,bear,173.0,157.0,2,Large,LC
+capstone copper (4),2026,1,base,173.0,157.0,2,Large,LC
+capstone copper (4),2026,1,bull,157.8,157.0,2,Large,LC
+capstone copper (4),2027,2,bear,174.3,157.0,2,Large,LC
+capstone copper (4),2027,2,base,174.3,157.0,2,Large,LC
+capstone copper (4),2027,2,bull,153.5,157.0,2,Large,LC
+capstone copper (4),2028,3,bear,171.9,157.0,2,Large,LC
+capstone copper (4),2028,3,base,171.9,157.0,2,Large,LC
+capstone copper (4),2028,3,bull,148.7,157.0,2,Large,LC
+capstone copper (4),2029,4,bear,182.8,157.0,2,Large,LC
+capstone copper (4),2029,4,base,182.8,157.0,2,Large,LC
+capstone copper (4),2029,4,bull,154.3,157.0,2,Large,LC
+capstone copper (4),2030,5,bear,175.5,157.0,2,Large,LC
+capstone copper (4),2030,5,base,175.5,157.0,2,Large,LC
+capstone copper (4),2030,5,bull,155.5,157.0,2,Large,LC
+capstone copper (4),2031,6,bear,185.6,157.0,2,Large,LC
+capstone copper (4),2031,6,base,185.6,157.0,2,Large,LC
+capstone copper (4),2031,6,bull,169.9,157.0,2,Large,LC
+capstone copper (4),2032,7,bear,178.9,157.0,2,Large,LC
+capstone copper (4),2032,7,base,178.9,157.0,2,Large,LC
+capstone copper (4),2032,7,bull,166.8,157.0,2,Large,LC
+caserones,2026,1,bear,128.8,132.9,2,Large,LC
+caserones,2026,1,base,128.8,132.9,2,Large,LC
+caserones,2026,1,bull,120.6,132.9,2,Large,LC
+caserones,2027,2,bear,120.3,132.9,2,Large,LC
+caserones,2027,2,base,120.3,132.9,2,Large,LC
+caserones,2027,2,bull,114.2,132.9,2,Large,LC
+caserones,2028,3,bear,115.0,132.9,2,Large,LC
+caserones,2028,3,base,115.0,132.9,2,Large,LC
+caserones,2028,3,bull,109.0,132.9,2,Large,LC
+caserones,2029,4,bear,112.5,132.9,2,Large,LC
+caserones,2029,4,base,112.5,132.9,2,Large,LC
+caserones,2029,4,bull,105.3,132.9,2,Large,LC
+caserones,2030,5,bear,116.4,132.9,2,Large,LC
+caserones,2030,5,base,116.4,132.9,2,Large,LC
+caserones,2030,5,bull,108.4,132.9,2,Large,LC
+caserones,2031,6,bear,116.4,132.9,2,Large,LC
+caserones,2031,6,base,116.4,132.9,2,Large,LC
+caserones,2031,6,bull,110.6,132.9,2,Large,LC
+caserones,2032,7,bear,112.7,132.9,2,Large,LC
+caserones,2032,7,base,112.7,132.9,2,Large,LC
+caserones,2032,7,bull,107.9,132.9,2,Large,LC
+centinela_centinela_sulfuros_,2026,1,bear,156.3,174.3,3,Colossal,LC
+centinela_centinela_sulfuros_,2026,1,base,156.3,174.3,3,Colossal,LC
+centinela_centinela_sulfuros_,2026,1,bull,154.5,174.3,3,Colossal,LC
+centinela_centinela_sulfuros_,2027,2,bear,161.8,174.3,3,Colossal,LC
+centinela_centinela_sulfuros_,2027,2,base,161.8,174.3,3,Colossal,LC
+centinela_centinela_sulfuros_,2027,2,bull,159.5,174.3,3,Colossal,LC
+centinela_centinela_sulfuros_,2028,3,bear,149.5,174.3,3,Colossal,LC
+centinela_centinela_sulfuros_,2028,3,base,149.5,174.3,3,Colossal,LC
+centinela_centinela_sulfuros_,2028,3,bull,148.4,174.3,3,Colossal,LC
+centinela_centinela_sulfuros_,2029,4,bear,151.5,174.3,3,Colossal,LC
+centinela_centinela_sulfuros_,2029,4,base,151.5,174.3,3,Colossal,LC
+centinela_centinela_sulfuros_,2029,4,bull,149.6,174.3,3,Colossal,LC
+centinela_centinela_sulfuros_,2030,5,bear,142.2,174.3,3,Colossal,LC
+centinela_centinela_sulfuros_,2030,5,base,142.2,174.3,3,Colossal,LC
+centinela_centinela_sulfuros_,2030,5,bull,141.2,174.3,3,Colossal,LC
+centinela_centinela_sulfuros_,2031,6,bear,151.8,174.3,3,Colossal,LC
+centinela_centinela_sulfuros_,2031,6,base,151.8,174.3,3,Colossal,LC
+centinela_centinela_sulfuros_,2031,6,bull,153.0,174.3,3,Colossal,LC
+centinela_centinela_sulfuros_,2032,7,bear,139.6,174.3,3,Colossal,LC
+centinela_centinela_sulfuros_,2032,7,base,139.6,174.3,3,Colossal,LC
+centinela_centinela_sulfuros_,2032,7,bull,143.0,174.3,3,Colossal,LC
+centinela_centinela_óxidos_,2026,1,bear,76.0,66.1,2,Large,LC
+centinela_centinela_óxidos_,2026,1,base,76.0,66.1,2,Large,LC
+centinela_centinela_óxidos_,2026,1,bull,71.7,66.1,2,Large,LC
+centinela_centinela_óxidos_,2027,2,bear,72.1,66.1,2,Large,LC
+centinela_centinela_óxidos_,2027,2,base,72.1,66.1,2,Large,LC
+centinela_centinela_óxidos_,2027,2,bull,68.3,66.1,2,Large,LC
+centinela_centinela_óxidos_,2028,3,bear,76.7,66.1,2,Large,LC
+centinela_centinela_óxidos_,2028,3,base,76.7,66.1,2,Large,LC
+centinela_centinela_óxidos_,2028,3,bull,73.2,66.1,2,Large,LC
+centinela_centinela_óxidos_,2029,4,bear,74.4,66.1,2,Large,LC
+centinela_centinela_óxidos_,2029,4,base,74.4,66.1,2,Large,LC
+centinela_centinela_óxidos_,2029,4,bull,70.6,66.1,2,Large,LC
+centinela_centinela_óxidos_,2030,5,bear,80.8,66.1,2,Large,LC
+centinela_centinela_óxidos_,2030,5,base,80.8,66.1,2,Large,LC
+centinela_centinela_óxidos_,2030,5,bull,77.5,66.1,2,Large,LC
+centinela_centinela_óxidos_,2031,6,bear,85.3,66.1,2,Large,LC
+centinela_centinela_óxidos_,2031,6,base,85.3,66.1,2,Large,LC
+centinela_centinela_óxidos_,2031,6,bull,81.4,66.1,2,Large,LC
+centinela_centinela_óxidos_,2032,7,bear,85.5,66.1,2,Large,LC
+centinela_centinela_óxidos_,2032,7,base,85.5,66.1,2,Large,LC
+centinela_centinela_óxidos_,2032,7,bull,82.1,66.1,2,Large,LC
+cerro negro,2026,1,bear,4.0,4.1,0,Small,SM
+cerro negro,2026,1,base,4.0,4.1,0,Small,SM
+cerro negro,2026,1,bull,3.7,4.1,0,Small,SM
+cerro negro,2027,2,bear,3.8,4.1,0,Small,SM
+cerro negro,2027,2,base,3.8,4.1,0,Small,SM
+cerro negro,2027,2,bull,3.5,4.1,0,Small,SM
+cerro negro,2028,3,bear,3.9,4.1,0,Small,SM
+cerro negro,2028,3,base,3.9,4.1,0,Small,SM
+cerro negro,2028,3,bull,3.5,4.1,0,Small,SM
+cerro negro,2029,4,bear,3.7,4.1,0,Small,SM
+cerro negro,2029,4,base,3.7,4.1,0,Small,SM
+cerro negro,2029,4,bull,3.3,4.1,0,Small,SM
+cerro negro,2030,5,bear,3.4,4.1,0,Small,SM
+cerro negro,2030,5,base,3.4,4.1,0,Small,SM
+cerro negro,2030,5,bull,3.1,4.1,0,Small,SM
+cerro negro,2031,6,bear,3.2,4.1,0,Small,SM
+cerro negro,2031,6,base,3.2,4.1,0,Small,SM
+cerro negro,2031,6,bull,2.9,4.1,0,Small,SM
+cerro negro,2032,7,bear,3.0,4.1,0,Small,SM
+cerro negro,2032,7,base,3.0,4.1,0,Small,SM
+cerro negro,2032,7,bull,2.8,4.1,0,Small,SM
+chuquicamata,2026,1,bear,256.2,265.8,3,Colossal,LC
+chuquicamata,2026,1,base,256.2,265.8,3,Colossal,LC
+chuquicamata,2026,1,bull,257.3,265.8,3,Colossal,LC
+chuquicamata,2027,2,bear,247.5,265.8,3,Colossal,LC
+chuquicamata,2027,2,base,247.5,265.8,3,Colossal,LC
+chuquicamata,2027,2,bull,246.0,265.8,3,Colossal,LC
+chuquicamata,2028,3,bear,237.4,265.8,3,Colossal,LC
+chuquicamata,2028,3,base,237.4,265.8,3,Colossal,LC
+chuquicamata,2028,3,bull,236.6,265.8,3,Colossal,LC
+chuquicamata,2029,4,bear,241.7,265.8,3,Colossal,LC
+chuquicamata,2029,4,base,241.7,265.8,3,Colossal,LC
+chuquicamata,2029,4,bull,239.3,265.8,3,Colossal,LC
+chuquicamata,2030,5,bear,231.2,265.8,3,Colossal,LC
+chuquicamata,2030,5,base,231.2,265.8,3,Colossal,LC
+chuquicamata,2030,5,bull,228.1,265.8,3,Colossal,LC
+chuquicamata,2031,6,bear,223.0,265.8,3,Colossal,LC
+chuquicamata,2031,6,base,223.0,265.8,3,Colossal,LC
+chuquicamata,2031,6,bull,219.3,265.8,3,Colossal,LC
+chuquicamata,2032,7,bear,221.6,265.8,3,Colossal,LC
+chuquicamata,2032,7,base,221.6,265.8,3,Colossal,LC
+chuquicamata,2032,7,bull,222.8,265.8,3,Colossal,LC
+collahuasi,2026,1,bear,559.1,406.0,3,Colossal,LC
+collahuasi,2026,1,base,559.1,406.0,3,Colossal,LC
+collahuasi,2026,1,bull,567.3,406.0,3,Colossal,LC
+collahuasi,2027,2,bear,519.7,406.0,3,Colossal,LC
+collahuasi,2027,2,base,519.7,406.0,3,Colossal,LC
+collahuasi,2027,2,bull,527.7,406.0,3,Colossal,LC
+collahuasi,2028,3,bear,475.9,406.0,3,Colossal,LC
+collahuasi,2028,3,base,475.9,406.0,3,Colossal,LC
+collahuasi,2028,3,bull,484.8,406.0,3,Colossal,LC
+collahuasi,2029,4,bear,448.8,406.0,3,Colossal,LC
+collahuasi,2029,4,base,448.8,406.0,3,Colossal,LC
+collahuasi,2029,4,bull,454.6,406.0,3,Colossal,LC
+collahuasi,2030,5,bear,435.4,406.0,3,Colossal,LC
+collahuasi,2030,5,base,435.4,406.0,3,Colossal,LC
+collahuasi,2030,5,bull,438.2,406.0,3,Colossal,LC
+collahuasi,2031,6,bear,473.2,406.0,3,Colossal,LC
+collahuasi,2031,6,base,473.2,406.0,3,Colossal,LC
+collahuasi,2031,6,bull,467.6,406.0,3,Colossal,LC
+collahuasi,2032,7,bear,503.7,406.0,3,Colossal,LC
+collahuasi,2032,7,base,503.7,406.0,3,Colossal,LC
+collahuasi,2032,7,bull,505.7,406.0,3,Colossal,LC
+el abra,2026,1,bear,81.8,91.4,1,Medium,SM
+el abra,2026,1,base,81.8,91.4,1,Medium,SM
+el abra,2026,1,bull,81.7,91.4,1,Medium,SM
+el abra,2027,2,bear,84.6,91.4,1,Medium,SM
+el abra,2027,2,base,84.6,91.4,1,Medium,SM
+el abra,2027,2,bull,85.3,91.4,1,Medium,SM
+el abra,2028,3,bear,74.4,91.4,1,Medium,SM
+el abra,2028,3,base,74.4,91.4,1,Medium,SM
+el abra,2028,3,bull,75.9,91.4,1,Medium,SM
+el abra,2029,4,bear,64.2,91.4,1,Medium,SM
+el abra,2029,4,base,64.2,91.4,1,Medium,SM
+el abra,2029,4,bull,65.2,91.4,1,Medium,SM
+el abra,2030,5,bear,65.8,91.4,1,Medium,SM
+el abra,2030,5,base,65.8,91.4,1,Medium,SM
+el abra,2030,5,bull,66.9,91.4,1,Medium,SM
+el abra,2031,6,bear,62.0,91.4,1,Medium,SM
+el abra,2031,6,base,62.0,91.4,1,Medium,SM
+el abra,2031,6,bull,62.2,91.4,1,Medium,SM
+el abra,2032,7,bear,56.3,91.4,1,Medium,SM
+el abra,2032,7,base,56.3,91.4,1,Medium,SM
+el abra,2032,7,bull,56.5,91.4,1,Medium,SM
+el soldado,2026,1,bear,47.0,42.6,1,Medium,SM
+el soldado,2026,1,base,47.0,42.6,1,Medium,SM
+el soldado,2026,1,bull,45.0,42.6,1,Medium,SM
+el soldado,2027,2,bear,43.3,42.6,1,Medium,SM
+el soldado,2027,2,base,43.3,42.6,1,Medium,SM
+el soldado,2027,2,bull,41.2,42.6,1,Medium,SM
+el soldado,2028,3,bear,43.6,42.6,1,Medium,SM
+el soldado,2028,3,base,43.6,42.6,1,Medium,SM
+el soldado,2028,3,bull,41.4,42.6,1,Medium,SM
+el soldado,2029,4,bear,41.2,42.6,1,Medium,SM
+el soldado,2029,4,base,41.2,42.6,1,Medium,SM
+el soldado,2029,4,bull,39.5,42.6,1,Medium,SM
+el soldado,2030,5,bear,45.0,42.6,1,Medium,SM
+el soldado,2030,5,base,45.0,42.6,1,Medium,SM
+el soldado,2030,5,bull,43.8,42.6,1,Medium,SM
+el soldado,2031,6,bear,42.2,42.6,1,Medium,SM
+el soldado,2031,6,base,42.2,42.6,1,Medium,SM
+el soldado,2031,6,bull,41.0,42.6,1,Medium,SM
+el soldado,2032,7,bear,27.1,42.6,1,Medium,SM
+el soldado,2032,7,base,27.1,42.6,1,Medium,SM
+el soldado,2032,7,bull,26.9,42.6,1,Medium,SM
+el teniente,2026,1,bear,268.4,310.1,3,Colossal,LC
+el teniente,2026,1,base,268.4,310.1,3,Colossal,LC
+el teniente,2026,1,bull,267.0,310.1,3,Colossal,LC
+el teniente,2027,2,bear,249.3,310.1,3,Colossal,LC
+el teniente,2027,2,base,249.3,310.1,3,Colossal,LC
+el teniente,2027,2,bull,247.5,310.1,3,Colossal,LC
+el teniente,2028,3,bear,218.6,310.1,3,Colossal,LC
+el teniente,2028,3,base,218.6,310.1,3,Colossal,LC
+el teniente,2028,3,bull,220.2,310.1,3,Colossal,LC
+el teniente,2029,4,bear,213.6,310.1,3,Colossal,LC
+el teniente,2029,4,base,213.6,310.1,3,Colossal,LC
+el teniente,2029,4,bull,213.8,310.1,3,Colossal,LC
+el teniente,2030,5,bear,209.8,310.1,3,Colossal,LC
+el teniente,2030,5,base,209.8,310.1,3,Colossal,LC
+el teniente,2030,5,bull,208.6,310.1,3,Colossal,LC
+el teniente,2031,6,bear,207.3,310.1,3,Colossal,LC
+el teniente,2031,6,base,207.3,310.1,3,Colossal,LC
+el teniente,2031,6,bull,204.9,310.1,3,Colossal,LC
+el teniente,2032,7,bear,213.2,310.1,3,Colossal,LC
+el teniente,2032,7,base,213.2,310.1,3,Colossal,LC
+el teniente,2032,7,bull,212.7,310.1,3,Colossal,LC
+escondida,2026,1,bear,1369.6,1345.1,3,Colossal,LC
+escondida,2026,1,base,1369.6,1345.1,3,Colossal,LC
+escondida,2026,1,bull,1325.0,1345.1,3,Colossal,LC
+escondida,2027,2,bear,1267.5,1345.1,3,Colossal,LC
+escondida,2027,2,base,1267.5,1345.1,3,Colossal,LC
+escondida,2027,2,bull,1224.0,1345.1,3,Colossal,LC
+escondida,2028,3,bear,1231.1,1345.1,3,Colossal,LC
+escondida,2028,3,base,1231.1,1345.1,3,Colossal,LC
+escondida,2028,3,bull,1198.8,1345.1,3,Colossal,LC
+escondida,2029,4,bear,1237.8,1345.1,3,Colossal,LC
+escondida,2029,4,base,1237.8,1345.1,3,Colossal,LC
+escondida,2029,4,bull,1205.7,1345.1,3,Colossal,LC
+escondida,2030,5,bear,1178.5,1345.1,3,Colossal,LC
+escondida,2030,5,base,1178.5,1345.1,3,Colossal,LC
+escondida,2030,5,bull,1150.9,1345.1,3,Colossal,LC
+escondida,2031,6,bear,1058.0,1345.1,3,Colossal,LC
+escondida,2031,6,base,1058.0,1345.1,3,Colossal,LC
+escondida,2031,6,bull,1045.4,1345.1,3,Colossal,LC
+escondida,2032,7,bear,1031.0,1345.1,3,Colossal,LC
+escondida,2032,7,base,1031.0,1345.1,3,Colossal,LC
+escondida,2032,7,bull,1024.0,1345.1,3,Colossal,LC
+franke,2026,1,bear,9.9,10.9,0,Small,SM
+franke,2026,1,base,9.9,10.9,0,Small,SM
+franke,2026,1,bull,9.4,10.9,0,Small,SM
+franke,2027,2,bear,9.5,10.9,0,Small,SM
+franke,2027,2,base,9.5,10.9,0,Small,SM
+franke,2027,2,bull,8.8,10.9,0,Small,SM
+franke,2028,3,bear,9.5,10.9,0,Small,SM
+franke,2028,3,base,9.5,10.9,0,Small,SM
+franke,2028,3,bull,8.4,10.9,0,Small,SM
+franke,2029,4,bear,8.2,10.9,0,Small,SM
+franke,2029,4,base,8.2,10.9,0,Small,SM
+franke,2029,4,bull,7.0,10.9,0,Small,SM
+franke,2030,5,bear,7.6,10.9,0,Small,SM
+franke,2030,5,base,7.6,10.9,0,Small,SM
+franke,2030,5,bull,6.7,10.9,0,Small,SM
+franke,2031,6,bear,7.6,10.9,0,Small,SM
+franke,2031,6,base,7.6,10.9,0,Small,SM
+franke,2031,6,bull,7.0,10.9,0,Small,SM
+franke,2032,7,bear,7.7,10.9,0,Small,SM
+franke,2032,7,base,7.7,10.9,0,Small,SM
+franke,2032,7,bull,7.2,10.9,0,Small,SM
+gabriela mistral,2026,1,bear,84.5,81.7,2,Large,LC
+gabriela mistral,2026,1,base,84.5,81.7,2,Large,LC
+gabriela mistral,2026,1,bull,79.8,81.7,2,Large,LC
+gabriela mistral,2027,2,bear,81.9,81.7,2,Large,LC
+gabriela mistral,2027,2,base,81.9,81.7,2,Large,LC
+gabriela mistral,2027,2,bull,77.3,81.7,2,Large,LC
+gabriela mistral,2028,3,bear,80.3,81.7,2,Large,LC
+gabriela mistral,2028,3,base,80.3,81.7,2,Large,LC
+gabriela mistral,2028,3,bull,75.7,81.7,2,Large,LC
+gabriela mistral,2029,4,bear,83.6,81.7,2,Large,LC
+gabriela mistral,2029,4,base,83.6,81.7,2,Large,LC
+gabriela mistral,2029,4,bull,78.0,81.7,2,Large,LC
+gabriela mistral,2030,5,bear,86.3,81.7,2,Large,LC
+gabriela mistral,2030,5,base,86.3,81.7,2,Large,LC
+gabriela mistral,2030,5,bull,81.8,81.7,2,Large,LC
+gabriela mistral,2031,6,bear,89.2,81.7,2,Large,LC
+gabriela mistral,2031,6,base,89.2,81.7,2,Large,LC
+gabriela mistral,2031,6,bull,87.9,81.7,2,Large,LC
+gabriela mistral,2032,7,bear,93.2,81.7,2,Large,LC
+gabriela mistral,2032,7,base,93.2,81.7,2,Large,LC
+gabriela mistral,2032,7,bull,92.1,81.7,2,Large,LC
+lomas bayas,2026,1,bear,56.2,60.6,1,Medium,SM
+lomas bayas,2026,1,base,56.2,60.6,1,Medium,SM
+lomas bayas,2026,1,bull,56.6,60.6,1,Medium,SM
+lomas bayas,2027,2,bear,55.3,60.6,1,Medium,SM
+lomas bayas,2027,2,base,55.3,60.6,1,Medium,SM
+lomas bayas,2027,2,bull,56.1,60.6,1,Medium,SM
+lomas bayas,2028,3,bear,36.3,60.6,1,Medium,SM
+lomas bayas,2028,3,base,36.3,60.6,1,Medium,SM
+lomas bayas,2028,3,bull,37.4,60.6,1,Medium,SM
+lomas bayas,2029,4,bear,29.9,60.6,1,Medium,SM
+lomas bayas,2029,4,base,29.9,60.6,1,Medium,SM
+lomas bayas,2029,4,bull,30.7,60.6,1,Medium,SM
+lomas bayas,2030,5,bear,29.5,60.6,1,Medium,SM
+lomas bayas,2030,5,base,29.5,60.6,1,Medium,SM
+lomas bayas,2030,5,bull,30.2,60.6,1,Medium,SM
+lomas bayas,2031,6,bear,32.6,60.6,1,Medium,SM
+lomas bayas,2031,6,base,32.6,60.6,1,Medium,SM
+lomas bayas,2031,6,bull,32.7,60.6,1,Medium,SM
+lomas bayas,2032,7,bear,26.1,60.6,1,Medium,SM
+lomas bayas,2032,7,base,26.1,60.6,1,Medium,SM
+lomas bayas,2032,7,bull,26.3,60.6,1,Medium,SM
+los bronces,2026,1,bear,193.9,207.2,3,Colossal,LC
+los bronces,2026,1,base,193.9,207.2,3,Colossal,LC
+los bronces,2026,1,bull,194.8,207.2,3,Colossal,LC
+los bronces,2027,2,bear,181.3,207.2,3,Colossal,LC
+los bronces,2027,2,base,181.3,207.2,3,Colossal,LC
+los bronces,2027,2,bull,182.0,207.2,3,Colossal,LC
+los bronces,2028,3,bear,183.8,207.2,3,Colossal,LC
+los bronces,2028,3,base,183.8,207.2,3,Colossal,LC
+los bronces,2028,3,bull,184.2,207.2,3,Colossal,LC
+los bronces,2029,4,bear,184.1,207.2,3,Colossal,LC
+los bronces,2029,4,base,184.1,207.2,3,Colossal,LC
+los bronces,2029,4,bull,183.0,207.2,3,Colossal,LC
+los bronces,2030,5,bear,184.7,207.2,3,Colossal,LC
+los bronces,2030,5,base,184.7,207.2,3,Colossal,LC
+los bronces,2030,5,bull,184.1,207.2,3,Colossal,LC
+los bronces,2031,6,bear,181.4,207.2,3,Colossal,LC
+los bronces,2031,6,base,181.4,207.2,3,Colossal,LC
+los bronces,2031,6,bull,180.1,207.2,3,Colossal,LC
+los bronces,2032,7,bear,181.5,207.2,3,Colossal,LC
+los bronces,2032,7,base,181.5,207.2,3,Colossal,LC
+los bronces,2032,7,bull,183.5,207.2,3,Colossal,LC
+los pelambres,2026,1,bear,359.1,305.9,3,Colossal,LC
+los pelambres,2026,1,base,359.1,305.9,3,Colossal,LC
+los pelambres,2026,1,bull,360.1,305.9,3,Colossal,LC
+los pelambres,2027,2,bear,336.0,305.9,3,Colossal,LC
+los pelambres,2027,2,base,336.0,305.9,3,Colossal,LC
+los pelambres,2027,2,bull,336.1,305.9,3,Colossal,LC
+los pelambres,2028,3,bear,323.3,305.9,3,Colossal,LC
+los pelambres,2028,3,base,323.3,305.9,3,Colossal,LC
+los pelambres,2028,3,bull,327.4,305.9,3,Colossal,LC
+los pelambres,2029,4,bear,305.7,305.9,3,Colossal,LC
+los pelambres,2029,4,base,305.7,305.9,3,Colossal,LC
+los pelambres,2029,4,bull,306.9,305.9,3,Colossal,LC
+los pelambres,2030,5,bear,295.5,305.9,3,Colossal,LC
+los pelambres,2030,5,base,295.5,305.9,3,Colossal,LC
+los pelambres,2030,5,bull,296.2,305.9,3,Colossal,LC
+los pelambres,2031,6,bear,300.3,305.9,3,Colossal,LC
+los pelambres,2031,6,base,300.3,305.9,3,Colossal,LC
+los pelambres,2031,6,bull,299.3,305.9,3,Colossal,LC
+los pelambres,2032,7,bear,310.2,305.9,3,Colossal,LC
+los pelambres,2032,7,base,310.2,305.9,3,Colossal,LC
+los pelambres,2032,7,bull,312.3,305.9,3,Colossal,LC
+mantos blancos,2026,1,bear,72.2,61.9,1,Medium,SM
+mantos blancos,2026,1,base,72.2,61.9,1,Medium,SM
+mantos blancos,2026,1,bull,67.7,61.9,1,Medium,SM
+mantos blancos,2027,2,bear,74.0,61.9,1,Medium,SM
+mantos blancos,2027,2,base,74.0,61.9,1,Medium,SM
+mantos blancos,2027,2,bull,69.7,61.9,1,Medium,SM
+mantos blancos,2028,3,bear,76.1,61.9,1,Medium,SM
+mantos blancos,2028,3,base,76.1,61.9,1,Medium,SM
+mantos blancos,2028,3,bull,70.3,61.9,1,Medium,SM
+mantos blancos,2029,4,bear,64.6,61.9,1,Medium,SM
+mantos blancos,2029,4,base,64.6,61.9,1,Medium,SM
+mantos blancos,2029,4,bull,58.9,61.9,1,Medium,SM
+mantos blancos,2030,5,bear,65.7,61.9,1,Medium,SM
+mantos blancos,2030,5,base,65.7,61.9,1,Medium,SM
+mantos blancos,2030,5,bull,61.8,61.9,1,Medium,SM
+mantos blancos,2031,6,bear,59.5,61.9,1,Medium,SM
+mantos blancos,2031,6,base,59.5,61.9,1,Medium,SM
+mantos blancos,2031,6,bull,56.5,61.9,1,Medium,SM
+mantos blancos,2032,7,bear,57.4,61.9,1,Medium,SM
+mantos blancos,2032,7,base,57.4,61.9,1,Medium,SM
+mantos blancos,2032,7,bull,55.8,61.9,1,Medium,SM
+mantoverde,2026,1,bear,107.8,95.1,1,Medium,SM
+mantoverde,2026,1,base,107.8,95.1,1,Medium,SM
+mantoverde,2026,1,bull,101.8,95.1,1,Medium,SM
+mantoverde,2027,2,bear,102.5,95.1,1,Medium,SM
+mantoverde,2027,2,base,102.5,95.1,1,Medium,SM
+mantoverde,2027,2,bull,97.4,95.1,1,Medium,SM
+mantoverde,2028,3,bear,101.1,95.1,1,Medium,SM
+mantoverde,2028,3,base,101.1,95.1,1,Medium,SM
+mantoverde,2028,3,bull,96.2,95.1,1,Medium,SM
+mantoverde,2029,4,bear,100.4,95.1,1,Medium,SM
+mantoverde,2029,4,base,100.4,95.1,1,Medium,SM
+mantoverde,2029,4,bull,93.6,95.1,1,Medium,SM
+mantoverde,2030,5,bear,99.2,95.1,1,Medium,SM
+mantoverde,2030,5,base,99.2,95.1,1,Medium,SM
+mantoverde,2030,5,bull,94.6,95.1,1,Medium,SM
+mantoverde,2031,6,bear,91.8,95.1,1,Medium,SM
+mantoverde,2031,6,base,91.8,95.1,1,Medium,SM
+mantoverde,2031,6,bull,87.7,95.1,1,Medium,SM
+mantoverde,2032,7,bear,88.3,95.1,1,Medium,SM
+mantoverde,2032,7,base,88.3,95.1,1,Medium,SM
+mantoverde,2032,7,bull,85.2,95.1,1,Medium,SM
+michilla,2026,1,bear,15.6,16.9,0,Small,SM
+michilla,2026,1,base,15.6,16.9,0,Small,SM
+michilla,2026,1,bull,15.4,16.9,0,Small,SM
+michilla,2027,2,bear,12.3,16.9,0,Small,SM
+michilla,2027,2,base,12.3,16.9,0,Small,SM
+michilla,2027,2,bull,12.0,16.9,0,Small,SM
+michilla,2028,3,bear,12.3,16.9,0,Small,SM
+michilla,2028,3,base,12.3,16.9,0,Small,SM
+michilla,2028,3,bull,11.7,16.9,0,Small,SM
+michilla,2029,4,bear,12.6,16.9,0,Small,SM
+michilla,2029,4,base,12.6,16.9,0,Small,SM
+michilla,2029,4,bull,11.9,16.9,0,Small,SM
+michilla,2030,5,bear,14.7,16.9,0,Small,SM
+michilla,2030,5,base,14.7,16.9,0,Small,SM
+michilla,2030,5,bull,14.0,16.9,0,Small,SM
+michilla,2031,6,bear,17.0,16.9,0,Small,SM
+michilla,2031,6,base,17.0,16.9,0,Small,SM
+michilla,2031,6,bull,16.5,16.9,0,Small,SM
+michilla,2032,7,bear,12.9,16.9,0,Small,SM
+michilla,2032,7,base,12.9,16.9,0,Small,SM
+michilla,2032,7,bull,12.5,16.9,0,Small,SM
+ministro hales,2026,1,bear,155.9,152.9,2,Large,LC
+ministro hales,2026,1,base,155.9,152.9,2,Large,LC
+ministro hales,2026,1,bull,153.1,152.9,2,Large,LC
+ministro hales,2027,2,bear,147.8,152.9,2,Large,LC
+ministro hales,2027,2,base,147.8,152.9,2,Large,LC
+ministro hales,2027,2,bull,146.1,152.9,2,Large,LC
+ministro hales,2028,3,bear,143.3,152.9,2,Large,LC
+ministro hales,2028,3,base,143.3,152.9,2,Large,LC
+ministro hales,2028,3,bull,140.8,152.9,2,Large,LC
+ministro hales,2029,4,bear,147.4,152.9,2,Large,LC
+ministro hales,2029,4,base,147.4,152.9,2,Large,LC
+ministro hales,2029,4,bull,143.1,152.9,2,Large,LC
+ministro hales,2030,5,bear,143.3,152.9,2,Large,LC
+ministro hales,2030,5,base,143.3,152.9,2,Large,LC
+ministro hales,2030,5,bull,139.8,152.9,2,Large,LC
+ministro hales,2031,6,bear,147.0,152.9,2,Large,LC
+ministro hales,2031,6,base,147.0,152.9,2,Large,LC
+ministro hales,2031,6,bull,145.2,152.9,2,Large,LC
+ministro hales,2032,7,bear,140.4,152.9,2,Large,LC
+ministro hales,2032,7,base,140.4,152.9,2,Large,LC
+ministro hales,2032,7,bull,140.3,152.9,2,Large,LC
+pampa camarones,2026,1,bear,4.0,3.6,0,Small,SM
+pampa camarones,2026,1,base,4.0,3.6,0,Small,SM
+pampa camarones,2026,1,bull,3.8,3.6,0,Small,SM
+pampa camarones,2027,2,bear,3.7,3.6,0,Small,SM
+pampa camarones,2027,2,base,3.7,3.6,0,Small,SM
+pampa camarones,2027,2,bull,3.4,3.6,0,Small,SM
+pampa camarones,2028,3,bear,3.4,3.6,0,Small,SM
+pampa camarones,2028,3,base,3.4,3.6,0,Small,SM
+pampa camarones,2028,3,bull,3.1,3.6,0,Small,SM
+pampa camarones,2029,4,bear,3.3,3.6,0,Small,SM
+pampa camarones,2029,4,base,3.3,3.6,0,Small,SM
+pampa camarones,2029,4,bull,2.9,3.6,0,Small,SM
+pampa camarones,2030,5,bear,3.0,3.6,0,Small,SM
+pampa camarones,2030,5,base,3.0,3.6,0,Small,SM
+pampa camarones,2030,5,bull,2.7,3.6,0,Small,SM
+pampa camarones,2031,6,bear,3.3,3.6,0,Small,SM
+pampa camarones,2031,6,base,3.3,3.6,0,Small,SM
+pampa camarones,2031,6,bull,3.0,3.6,0,Small,SM
+pampa camarones,2032,7,bear,2.7,3.6,0,Small,SM
+pampa camarones,2032,7,base,2.7,3.6,0,Small,SM
+pampa camarones,2032,7,bull,2.6,3.6,0,Small,SM
+radomiro tomic,2026,1,bear,302.1,295.3,3,Colossal,LC
+radomiro tomic,2026,1,base,302.1,295.3,3,Colossal,LC
+radomiro tomic,2026,1,bull,302.1,295.3,3,Colossal,LC
+radomiro tomic,2027,2,bear,311.0,295.3,3,Colossal,LC
+radomiro tomic,2027,2,base,311.0,295.3,3,Colossal,LC
+radomiro tomic,2027,2,bull,311.4,295.3,3,Colossal,LC
+radomiro tomic,2028,3,bear,309.4,295.3,3,Colossal,LC
+radomiro tomic,2028,3,base,309.4,295.3,3,Colossal,LC
+radomiro tomic,2028,3,bull,310.0,295.3,3,Colossal,LC
+radomiro tomic,2029,4,bear,314.3,295.3,3,Colossal,LC
+radomiro tomic,2029,4,base,314.3,295.3,3,Colossal,LC
+radomiro tomic,2029,4,bull,311.2,295.3,3,Colossal,LC
+radomiro tomic,2030,5,bear,327.0,295.3,3,Colossal,LC
+radomiro tomic,2030,5,base,327.0,295.3,3,Colossal,LC
+radomiro tomic,2030,5,bull,320.0,295.3,3,Colossal,LC
+radomiro tomic,2031,6,bear,316.9,295.3,3,Colossal,LC
+radomiro tomic,2031,6,base,316.9,295.3,3,Colossal,LC
+radomiro tomic,2031,6,bull,310.1,295.3,3,Colossal,LC
+radomiro tomic,2032,7,bear,296.1,295.3,3,Colossal,LC
+radomiro tomic,2032,7,base,296.1,295.3,3,Colossal,LC
+radomiro tomic,2032,7,bull,295.0,295.3,3,Colossal,LC
+salvador,2026,1,bear,58.9,47.0,0,Small,SM
+salvador,2026,1,base,58.9,47.0,0,Small,SM
+salvador,2026,1,bull,57.8,47.0,0,Small,SM
+salvador,2027,2,bear,56.3,47.0,0,Small,SM
+salvador,2027,2,base,56.3,47.0,0,Small,SM
+salvador,2027,2,bull,54.3,47.0,0,Small,SM
+salvador,2028,3,bear,57.0,47.0,0,Small,SM
+salvador,2028,3,base,57.0,47.0,0,Small,SM
+salvador,2028,3,bull,54.2,47.0,0,Small,SM
+salvador,2029,4,bear,55.1,47.0,0,Small,SM
+salvador,2029,4,base,55.1,47.0,0,Small,SM
+salvador,2029,4,bull,51.9,47.0,0,Small,SM
+salvador,2030,5,bear,51.8,47.0,0,Small,SM
+salvador,2030,5,base,51.8,47.0,0,Small,SM
+salvador,2030,5,bull,49.0,47.0,0,Small,SM
+salvador,2031,6,bear,59.0,47.0,0,Small,SM
+salvador,2031,6,base,59.0,47.0,0,Small,SM
+salvador,2031,6,bull,56.7,47.0,0,Small,SM
+salvador,2032,7,bear,58.2,47.0,0,Small,SM
+salvador,2032,7,base,58.2,47.0,0,Small,SM
+salvador,2032,7,bull,55.9,47.0,0,Small,SM
+sierra gorda,2026,1,bear,156.6,165.3,2,Large,LC
+sierra gorda,2026,1,base,156.6,165.3,2,Large,LC
+sierra gorda,2026,1,bull,158.3,165.3,2,Large,LC
+sierra gorda,2027,2,bear,154.3,165.3,2,Large,LC
+sierra gorda,2027,2,base,154.3,165.3,2,Large,LC
+sierra gorda,2027,2,bull,155.1,165.3,2,Large,LC
+sierra gorda,2028,3,bear,150.0,165.3,2,Large,LC
+sierra gorda,2028,3,base,150.0,165.3,2,Large,LC
+sierra gorda,2028,3,bull,151.6,165.3,2,Large,LC
+sierra gorda,2029,4,bear,166.1,165.3,2,Large,LC
+sierra gorda,2029,4,base,166.1,165.3,2,Large,LC
+sierra gorda,2029,4,bull,164.5,165.3,2,Large,LC
+sierra gorda,2030,5,bear,170.1,165.3,2,Large,LC
+sierra gorda,2030,5,base,170.1,165.3,2,Large,LC
+sierra gorda,2030,5,bull,164.2,165.3,2,Large,LC
+sierra gorda,2031,6,bear,161.2,165.3,2,Large,LC
+sierra gorda,2031,6,base,161.2,165.3,2,Large,LC
+sierra gorda,2031,6,bull,160.1,165.3,2,Large,LC
+sierra gorda,2032,7,bear,153.0,165.3,2,Large,LC
+sierra gorda,2032,7,base,153.0,165.3,2,Large,LC
+sierra gorda,2032,7,bull,154.2,165.3,2,Large,LC
+tres valles,2026,1,bear,1.7,1.8,0,Small,SM
+tres valles,2026,1,base,1.7,1.8,0,Small,SM
+tres valles,2026,1,bull,1.6,1.8,0,Small,SM
+tres valles,2027,2,bear,1.5,1.8,0,Small,SM
+tres valles,2027,2,base,1.5,1.8,0,Small,SM
+tres valles,2027,2,bull,1.4,1.8,0,Small,SM
+tres valles,2028,3,bear,1.5,1.8,0,Small,SM
+tres valles,2028,3,base,1.5,1.8,0,Small,SM
+tres valles,2028,3,bull,1.4,1.8,0,Small,SM
+tres valles,2029,4,bear,1.6,1.8,0,Small,SM
+tres valles,2029,4,base,1.6,1.8,0,Small,SM
+tres valles,2029,4,bull,1.4,1.8,0,Small,SM
+tres valles,2030,5,bear,1.5,1.8,0,Small,SM
+tres valles,2030,5,base,1.5,1.8,0,Small,SM
+tres valles,2030,5,bull,1.4,1.8,0,Small,SM
+tres valles,2031,6,bear,1.4,1.8,0,Small,SM
+tres valles,2031,6,base,1.4,1.8,0,Small,SM
+tres valles,2031,6,bull,1.4,1.8,0,Small,SM
+tres valles,2032,7,bear,1.4,1.8,0,Small,SM
+tres valles,2032,7,base,1.4,1.8,0,Small,SM
+tres valles,2032,7,bull,1.3,1.8,0,Small,SM
+zaldivar,2026,1,bear,75.0,75.4,2,Large,LC
+zaldivar,2026,1,base,75.0,75.4,2,Large,LC
+zaldivar,2026,1,bull,72.0,75.4,2,Large,LC
+zaldivar,2027,2,bear,75.5,75.4,2,Large,LC
+zaldivar,2027,2,base,75.5,75.4,2,Large,LC
+zaldivar,2027,2,bull,71.2,75.4,2,Large,LC
+zaldivar,2028,3,bear,78.5,75.4,2,Large,LC
+zaldivar,2028,3,base,78.5,75.4,2,Large,LC
+zaldivar,2028,3,bull,73.6,75.4,2,Large,LC
+zaldivar,2029,4,bear,84.9,75.4,2,Large,LC
+zaldivar,2029,4,base,84.9,75.4,2,Large,LC
+zaldivar,2029,4,bull,78.8,75.4,2,Large,LC
+zaldivar,2030,5,bear,89.3,75.4,2,Large,LC
+zaldivar,2030,5,base,89.3,75.4,2,Large,LC
+zaldivar,2030,5,bull,84.4,75.4,2,Large,LC
+zaldivar,2031,6,bear,86.8,75.4,2,Large,LC
+zaldivar,2031,6,base,86.8,75.4,2,Large,LC
+zaldivar,2031,6,bull,82.6,75.4,2,Large,LC
+zaldivar,2032,7,bear,86.4,75.4,2,Large,LC
+zaldivar,2032,7,base,86.4,75.4,2,Large,LC
+zaldivar,2032,7,bull,83.7,75.4,2,Large,LC

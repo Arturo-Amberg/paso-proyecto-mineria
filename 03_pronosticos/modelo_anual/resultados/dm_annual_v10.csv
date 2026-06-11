@@ -1,0 +1,25 @@
+Mine,n,DM_stat,p_value,Sig,Verdict,WR_DM,Skill_MAE,WR%,MAPE%,MASE,Skill_MASE,Size_Label
+ministro hales,42,-7.215,0.0,***,MODELO,90.5,19.4,90.5,34.0,0.806,19.4,Small
+zaldivar,63,-4.206,0.0,***,MODELO,77.8,23.5,77.8,12.8,0.765,23.5,Large
+capstone copper (4),63,-2.72,0.0042,***,MODELO,77.8,16.0,77.8,15.9,0.84,16.0,Large
+centinela_centinela_óxidos_,63,-1.098,0.1382,ns,EMPATE,66.7,5.0,66.7,24.7,0.95,5.0,Large
+gabriela mistral,56,-0.735,0.2328,ns,EMPATE,66.1,8.3,66.1,10.5,0.917,8.3,Large
+candelaria,63,-3.286,0.0008,***,MODELO,65.1,13.8,65.1,17.7,0.862,13.8,Large
+caserones,42,0.586,0.7194,ns,EMPATE,59.5,-8.1,59.5,36.6,1.081,-8.1,Small
+andacollo,56,-1.34,0.0929,*,EMPATE,58.9,8.1,58.9,28.6,0.919,8.1,Medium
+escondida,63,0.351,0.6367,ns,EMPATE,58.7,-0.9,58.7,13.1,1.009,-0.9,Colossal
+el teniente,63,-0.331,0.3709,ns,EMPATE,57.1,0.3,57.1,9.2,0.997,0.3,Colossal
+centinela_centinela_sulfuros_,56,-1.347,0.0917,*,EMPATE,57.1,8.0,57.1,14.0,0.92,8.0,Small
+lomas bayas,63,-0.604,0.2739,ns,EMPATE,55.6,4.5,55.6,7.2,0.955,4.5,Medium
+sierra gorda,35,-1.587,0.0609,*,EMPATE,54.3,7.6,54.3,39.4,0.924,7.6,Small
+andina,63,1.357,0.9101,ns,EMPATE,54.0,-2.1,54.0,16.7,1.021,-2.1,Colossal
+cerro colorado,63,-1.247,0.1086,ns,EMPATE,52.4,6.2,51.7,18.2,0.918,8.2,Medium
+antucoya,28,-0.392,0.3492,ns,EMPATE,46.4,2.7,46.4,26.8,0.973,2.7,Small
+los bronces,63,1.388,0.9149,ns,EMPATE,44.4,-4.3,44.4,24.6,1.043,-4.3,Colossal
+el abra,63,2.273,0.9867,ns,NAIVE,39.7,-2.6,39.7,43.0,1.026,-2.6,Colossal
+radomiro tomic,63,1.312,0.9029,ns,EMPATE,36.5,-10.8,36.5,19.7,1.108,-10.8,Colossal
+los pelambres,63,4.361,1.0,ns,NAIVE,34.9,-43.7,34.9,14.0,1.437,-43.7,Colossal
+chuquicamata,63,4.144,0.9999,ns,NAIVE,30.2,-25.7,30.2,24.6,1.257,-25.7,Colossal
+collahuasi,63,9.643,1.0,ns,NAIVE,20.6,-29.3,20.6,22.3,1.293,-29.3,Colossal
+michilla,42,-0.356,0.3619,ns,EMPATE,52.4,0.9,,,,,Medium
+salvador,63,0.364,0.6416,ns,EMPATE,60.3,-3.2,,,,,Medium

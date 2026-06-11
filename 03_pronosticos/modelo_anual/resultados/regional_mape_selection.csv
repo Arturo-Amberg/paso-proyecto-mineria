@@ -1,0 +1,8 @@
+Region,Region_Name,MAPE_LGB_MAE,MAPE_LGB_MAPE,MAPE_Ens,MAPE_Naive,MAPE_Best_Model,MAPE_Best_Value,MAPE_Skill,BU_MAPE,Best_Source_MAPE,Best_MAPE
+I,Tarapacá,13.76,22.25,13.69,11.89,Ens,13.69,-15.2,16.885,Naive,11.89
+II,Antofagasta,4.73,53.51,35.36,4.73,LGB_MAE,4.73,-0.2,9.944,Direct,4.73
+III,Atacama,17.16,46.05,19.12,19.38,LGB_MAE,17.16,11.4,25.53,Direct,17.16
+IV,Coquimbo,22.84,16.57,17.25,12.47,LGB_MAPE,16.57,-32.9,10.618,BU,10.618
+V,Valparaíso,14.96,72.74,39.55,9.64,LGB_MAE,14.96,-55.2,9.8,Naive,9.64
+RM,Metropolitana,22.75,22.53,21.93,22.49,Ens,21.93,2.5,23.498,Direct,21.93
+VI,O'Higgins,7.84,11.78,7.27,9.14,Ens,7.27,20.5,9.185,Direct,7.27

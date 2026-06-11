@@ -1,0 +1,495 @@
+Nombre_Pro,Entidad_In,RUT_clean,Recurso_Pr,Recurso_Grupo,Región,Region_Norm,Estado,lat,lon,Cluster,Prob
+Punta Espora,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.477783202999944,-69.46130371099997,0,1.0
+Retamos-4,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.81091308599997,-69.71459960899995,1,1.0
+Retamos-5,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.81909179699994,-69.70892333999996,1,1.0
+Salvadora,Compañía Minera San Lorenzo Limitada,76645913-3,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto en Evaluación,-26.374084472999982,-69.76379394499997,2,1.0
+Turi,Terence Walker,14651619-K,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.222290038999972,-68.30621337899998,-1,1.0
+María,SLM Marcela,76042429-3,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto en Evaluación,-27.49951171899994,-70.38238525399998,3,1.0
+Gloria,Cía. Minera Cerro Negro S.A.,91614000-2,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-32.61309814499998,-70.84637451199995,4,1.0
+Portales,Cía. Minera Cerro Negro S.A.,91614000-2,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-32.61511230499997,-70.85308837899998,4,1.0
+Toro,ANTOFAGASTA MINERALS S.A,93920000-2,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.156005858999947,-68.97802734399994,-1,1.0
+Pórfido Norte Bloque 4,ANTOFAGASTA MINERALS S.A,93920000-2,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-21.456115722999982,-69.09008789099994,-1,1.0
+Sierra La Cruz,ANTOFAGASTA MINERALS S.A,93920000-2,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.304626464999956,-69.87969970699999,-1,1.0
+Sierra Overa,ANTOFAGASTA MINERALS S.A,93920000-2,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.802917479999962,-70.00238037099996,5,1.0
+Exploración Proyecto Atlántida,NEW GOLDEN EXPLORATIONS CHILE SpA,76920597-7,Cu-Au-Mo,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.977600097999982,-69.98950195299994,6,1.0
+Linares Antu,BHP CHILE INC,86160300-8,Cu,Cobre,Región del Maule,MAULE,Proyecto Aprobado,-35.95190429699994,-71.21398925799997,-1,1.0
+Arqueros I,Compañía Minera San Gerónimo,78801520-8,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.75201415999993,-70.92108154299996,7,1.0
+Arqueros II,Compañía Minera San Gerónimo,78801520-8,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.770202636999954,-70.92749023399995,7,1.0
+Lidia,Compañía Minera San Gerónimo,78801520-8,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.867187499999943,-70.91149902299998,8,1.0
+Veta Libertad,Compañía Minera San Gerónimo,78801520-8,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.695983886999954,-70.84600830099998,7,1.0
+Veta Macarena,Compañía Minera San Gerónimo,78801520-8,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.692810058999953,-70.84997558599997,7,1.0
+Veta Pedro Montt,Compañía Minera San Gerónimo,78801520-8,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.689208983999947,-70.85540771499996,7,1.0
+Tres Puntas,ENAMI,61703000-4,Au-Cu,Oro,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.147094726999967,-68.77990722699997,9,1.0
+Santa Nicole,Minera Peñoles de Chile Limitada,76670380-1,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-30.42687988299997,-71.29779052699996,-1,1.0
+Alto Pajonales,ANTOFAGASTA MINERALS S.A,93920000-2,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.139404296999942,-70.90332031299994,10,1.0
+Alturas,Compañía Minera Salitrales Limitada,76033303-4,Au-Ag,Oro,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-30.01940917999997,-69.92602539099994,-1,1.0
+Azufrera,Compañía Minera Salitrales Limitada,76033303-4,Au-Ag,Oro,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.82012939499998,-69.97802734399994,11,1.0
+Diamanate,CODELCO,61704000-K,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-33.08880615199996,-70.31719970699999,12,1.0
+Leiva Sur Sur,CODELCO,61704000-K,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-32.58618164099994,-70.17279052699996,13,1.0
+Pimenton,CODELCO,61704000-K,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-32.532104491999974,-70.19171142599998,13,1.0
+Tigre Leiva Norte,CODELCO,61704000-K,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-32.55151367199994,-70.15240478499999,13,1.0
+Proyecto Distrital Florida,MINERA MERIDIAN LTDA,96508670-6,Au,Oro,Región Metropolitana,REGIÓN METROPOLITANA,Proyecto Aprobado,-33.99279785199997,-70.97540283199999,14,1.0
+El Laco,Laco SPA,76216083-8,Fe,Hierro,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.865905761999954,-67.36199951199995,-1,1.0
+Mina Juana,Diomedes Cruz Solarzano,14627660-1,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-30.67742919899996,-71.21038818399995,15,1.0
+Mina Mirador,Dicave Limitada,77990270-6,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-30.663391112999932,-71.20410156299994,15,1.0
+Salitrales,Compañía Minera Barrick Chile Limitada,59000710-2,Au-Ag,Oro,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.878112792999957,-69.98791503899997,11,1.0
+Yuma,Rio Tinto,59032420-5,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-21.143127440999933,-68.64691162099996,16,1.0
+Argomedo,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-24.790405272999976,-69.41680908199999,-1,1.0
+Domeyko,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-24.646606444999975,-69.24407958999996,17,1.0
+F17,QUANTUM PACIFIC EXPLORATION SPA,76320311-5,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.82427978499993,-69.27490234399994,-1,1.0
+Sierra Candeleros,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.440002440999933,-69.47998046899994,-1,1.0
+Flor del Desierto,Teck Resources Chile Ltda.,78127000-8,Au-Zn,Oro,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-20.058776854999962,-69.12701415999999,18,1.0
+Lasarterias,Teck Resources Chile Ltda.,78127000-8,Cu-Mo,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-21.11419677699996,-68.81530761699997,-1,1.0
+Yogen,Teck Resources Chile Ltda.,78127000-8,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.83349609399994,-68.79388427699996,-1,1.0
+Virginia,Teck Resources Chile Ltda.,78127000-8,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.391906737999932,-69.25567626999998,-1,1.0
+Campamento,Anglo American Chile Inversiones S.A.,76457675-6,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.576904296999942,-69.23577880899995,19,1.0
+Chitigua Norte,Anglo American Chile Inversiones S.A.,76457675-6,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-21.55297851599994,-68.78930664099994,20,1.0
+Chitigua Sur,Anglo American Chile Inversiones S.A.,76457675-6,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-21.742797851999967,-68.86639404299996,21,1.0
+Iglesia,Anglo American Chile Inversiones S.A.,76457675-6,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-21.65539550799997,-68.83819580099998,20,1.0
+Imperial,Anglo American Chile Inversiones S.A.,76457675-6,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.284606933999953,-69.37799072299998,22,1.0
+Pinchal,Anglo American Chile Inversiones S.A.,76457675-6,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-21.472412108999947,-68.88378906299994,-1,1.0
+Pomelo,Anglo American Chile Inversiones S.A.,76457675-6,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.671325683999953,-69.06909179699994,-1,1.0
+Salvadora,Compañía Minera Kairos Chile Limitada,76375367-0,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.374206542999957,-69.76361083999996,2,1.0
+Chilpes,CODELCO,61704000-K,Cu,Cobre,Región de Arica y Parinacota,ARICA Y PARINACOTA,Proyecto Aprobado,-18.932678222999982,-69.61450195299994,-1,1.0
+Los Azules,Minera Celeste Chile Limitada,76929290-k,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto en Evaluación,-27.391479491999974,-69.84759521499996,-1,1.0
+Nino,CODELCO,61704000-K,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-24.585205077999944,-69.18280029299996,17,1.0
+Pampa Luna,CODELCO,61704000-K,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.257202147999976,-69.10949706999997,23,1.0
+Raste,CODELCO,61704000-K,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.575195312999938,-69.07781982399996,24,1.0
+Yabricoya Antena,CODELCO,61704000-K,Cu,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-20.144714354999962,-69.03491210899995,-1,1.0
+Olimpo,MINERA FREEPORT MCMORAN SOUTH AMERICA LTDA.,78273180-7,Cu,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-21.060302733999947,-68.60369872999996,16,1.0
+Palestina,MINERA FREEPORT MCMORAN SOUTH AMERICA LTDA.,78273180-7,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.81060790999993,-69.54168701199995,-1,1.0
+Quinchamale,MINERA FREEPORT MCMORAN SOUTH AMERICA LTDA.,78273180-7,Cu,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-20.640624999999943,-68.90570068399995,25,1.0
+Real,MINERA FREEPORT MCMORAN SOUTH AMERICA LTDA.,78273180-7,Cu,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-21.00201415999993,-69.09802246099997,26,1.0
+Tama,MINERA FREEPORT MCMORAN SOUTH AMERICA LTDA.,78273180-7,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.221374511999954,-69.37048339799998,22,1.0
+Tres Marias,MINERA FREEPORT MCMORAN SOUTH AMERICA LTDA.,78273180-7,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.51068115199996,-69.22058105499997,27,1.0
+Victoria,FQM Exploration Chile S.A.,96709010-7,Cu-Ag,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.63659667999997,-69.48541259799998,28,1.0
+Caya,VALE EXPLORACIONES CHILE LTDA,76031013-1,Cu,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-20.543823241999974,-68.94470214799998,-1,1.0
+La Cobaltera,BALTUM MINERIA SPA,76827453-3,Co,Otro,Región de Atacama,ATACAMA,Proyecto Aprobado,-28.70001220699993,-71.21099853499999,-1,1.0
+Ángela,MINERA CENTRAL ANDES SPA,76074812-9,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-24.94677734399994,-70.27209472699997,-1,1.0
+Chincol,YPF Chile S.A.,76162492-K,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-53.32061767599998,-68.71008300799997,29,1.0
+Cisne Oeste,YPF Chile S.A.,76162492-K,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-53.20068359399994,-68.84332275399998,30,1.0
+Cisne Sur,YPF Chile S.A.,76162492-K,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-53.21118164099994,-68.78320312499994,30,1.0
+Maihuen,YPF Chile S.A.,76162492-K,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-53.17999267599998,-68.86370849599996,30,1.0
+6D,Far West Exploration S.A.,76069159-3,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-27.424011229999962,-70.53369140599995,-1,1.0
+Almagro,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.465698241999974,-69.78558349599996,-1,1.0
+Veronica,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.12872314499998,-69.72760009799998,-1,1.0
+Mantos Cobrizos,Compañía Minera Carmen Bajo,81556700-5,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-27.36761474599996,-70.17651367199994,31,1.0
+María Luisa,Compañía Minera Carmen Bajo,81556700-5,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-27.357910155999946,-70.17358398399995,31,1.0
+Resguardo,Compañía Minera Carmen Bajo,81556700-5,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-27.564208983999947,-70.32598876999998,3,1.0
+Arena Sur,ANTOFAGASTA MINERALS S.A,93920000-2,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-27.070312499999943,-70.17248535199997,32,1.0
+Argos,ANTOFAGASTA MINERALS S.A,93920000-2,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-28.246582030999946,-70.83581542999997,33,1.0
+Azul Profundo,ANTOFAGASTA MINERALS S.A,93920000-2,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.078796386999954,-69.30517578099995,34,1.0
+Jotabeche,Norte Abierto SpA,77116500-1,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-27.725280761999954,-69.26879882799994,35,1.0
+La Cantera,CODELCO,61704000-K,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.29852294899996,-69.58288574199997,2,1.0
+Llanta,CODELCO,61704000-K,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.348327636999954,-69.68829345699999,2,1.0
+Los Amarillos,CODELCO,61704000-K,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.27508544899996,-69.74151611299999,2,1.0
+Úrsula,Norte Abierto SpA,77116500-1,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-27.77191162099996,-69.37957763699995,36,1.0
+Atacama,MINERA FREEPORT MCMORAN SOUTH AMERICA LTDA.,78273180-7,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.033508300999983,-69.93652343799994,-1,1.0
+Azteca,MINERA FREEPORT MCMORAN SOUTH AMERICA LTDA.,78273180-7,Cu-Au,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-27.113586425999983,-69.90301513699995,37,1.0
+Payen,MINERA FREEPORT MCMORAN SOUTH AMERICA LTDA.,78273180-7,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-29.09680175799997,-70.97802734399994,10,1.0
+Proyecto Doña Inés,Minera AMG Chile Spa,76015318-4,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.010375976999967,-69.11700439499998,-1,1.0
+Atlas,Minera Mirasol Chile Limitada,76907760-K,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-25.386901854999962,-68.97711181599993,38,1.0
+Titan,Minera Mirasol Chile Limitada,76907760-K,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.482727050999983,-69.00689697299998,-1,1.0
+Atlas-Titán,MINERA MERIDIAN LTDA,96508670-6,Au,Oro,Región de Atacama,ATACAMA,Proyecto Aprobado,-25.397827147999976,-68.97009277299998,38,1.0
+Amargo,Teck Resources Chile Ltda.,78127000-8,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.231811522999976,-69.46441650399998,2,1.0
+Andes-Quirquincho,Nueva Unión,99589930-2,Cu-Mo,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-28.54479980499997,-70.34619140599995,39,1.0
+Iguana,Compañía Minera del Pacífico S.A.,94638000-8,Fe,Hierro,Región de Atacama,ATACAMA,Proyecto Aprobado,-28.20001220699993,-70.73400878899997,-1,1.0
+Las Docas,Compañía Minera del Pacífico S.A.,94638000-8,Fe,Hierro,Región de Atacama,ATACAMA,Proyecto Aprobado,-29.264526366999974,-71.08001708999996,40,1.0
+Los Colorados Sur,Compañía Minera del Pacífico S.A.,94638000-8,Fe,Hierro,Región de Atacama,ATACAMA,Proyecto Aprobado,-28.314086913999972,-70.81750488299997,33,1.0
+Pio1,QUANTUM PACIFIC EXPLORATION SPA,76320311-5,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto en Evaluación,-22.423583983999947,-69.26898193399995,41,1.0
+Pio2,QUANTUM PACIFIC EXPLORATION SPA,76320311-5,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto en Evaluación,-22.423583983999947,-69.26898193399995,41,1.0
+Pampa Morrillo,SQM S.A.,93007000-9,Cu-Zn,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-21.096374511999954,-69.87310790999999,42,1.0
+Franke,Sociedad Contractual Minera Franke,76051610-4,Cu-Ag,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.828308104999962,-69.91790771499996,5,1.0
+El Godo,SQM S.A.,93007000-9,Cu-Mo,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-20.354797362999932,-70.00299072299998,-1,1.0
+Galenosa Sur,SQM S.A.,93007000-9,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-21.96490478499993,-69.80371093799994,43,1.0
+Loa Norte,SQM S.A.,93007000-9,Cu-Zn,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-21.366210937999938,-69.91900634799998,-1,1.0
+Ojeda,SQM S.A.,93007000-9,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.130310058999953,-69.85809326199995,44,1.0
+Pasu_2,Sumitomo Metal Mining Chile Ltda,76005488-7,Cu-Au,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.63232421899994,-69.62469482399996,-1,1.0
+Radiss,Sumitomo Metal Mining Chile Ltda,76005488-7,Cu-Au,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.466979979999962,-70.14691162099996,-1,1.0
+PROYECTO ALTA TENSION,SOUTHERN COPPER CORPORATION AGENCIA CHILE,59105570-4,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.92028808599997,-69.92639160199997,-1,1.0
+Proyecto Cobresol,SOUTHERN COPPER CORPORATION AGENCIA CHILE,59105570-4,Cu-Au,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.959289550999983,-69.87469482399996,-1,1.0
+Exploración Franja Oeste,SQM Nitratos S.A.,96592190-7,Sales,Otro,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-21.036193847999982,-69.80657958999996,42,1.0
+PROYECTO BAQUEDANO,SOUTHERN COPPER CORPORATION AGENCIA CHILE,59105570-4,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.381896972999982,-69.85131835899995,45,1.0
+Copiapó Nordeste,MINERA NITTETSU CHILE LIMITADA,78442450-2,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-27.021789550999983,-70.11187744099993,32,1.0
+Los Compadres,MINERA NITTETSU CHILE LIMITADA,78442450-2,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-27.382202147999976,-70.19030761699997,31,1.0
+Trinidad,Rio Tinto,59032420-5,Cu,Cobre,Región de Arica y Parinacota,ARICA Y PARINACOTA,Proyecto Aprobado,-18.476684569999975,-69.47351074199997,46,1.0
+Veterana,Fresnillo Chile SpA,76497341-0,Cu-Au,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.69500732399996,-70.89990234399994,7,1.0
+Las Pampas,TECK RESOURCES CHILE LTDA,78127000-8,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-24.70849609399994,-69.71850585899995,47,1.0
+Santa Rosa,TECK RESOURCES CHILE LTDA,78127000-8,Cu-Mo,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-20.893188476999967,-68.91931152299998,-1,1.0
+ALTAR,COMPAÑIA MINERA CHIPANA S.A,76011083-3,Cu-Au,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-28.911682128999928,-71.09112548799999,48,1.0
+CUESTA INTERIOR MINA,COMPAÑIA MINERA CHIPANA S.A,76011083-3,Cu-Au,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-28.90240478499993,-71.09008789099994,48,1.0
+CUESTA SUR,COMPAÑIA MINERA CHIPANA S.A,76011083-3,Cu-Au,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-28.904907226999967,-71.08947753899997,48,1.0
+Delirio,SANTIAGO METALS PROYECTO DOS LTDA,76296369-8,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.743896483999947,-69.83508300799997,-1,1.0
+Luciano,Norte Abierto SpA,77116500-1,Au,Oro,Región de Atacama,ATACAMA,Proyecto Aprobado,-27.78747558599997,-69.38018798799999,36,1.0
+Salar Grande de Tarapacá,Cía. Mra. Punta de Lobos Ltda.,99589040-2,NaCl,Otro,Región de Tarapacá,TARAPACÁ,Proyecto en Evaluación,-20.90631103499993,-70.02069091799996,-1,1.0
+Tamberias,Minera Frontera Chile SpA,76212164-6,Cu-Au,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-28.50109863299997,-69.67230224599996,-1,1.0
+Cinabrio,Minera Altos de Punitaqui,76099463-4,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-30.729187011999954,-71.21630859399994,15,1.0
+Los Mantos 2017,Minera Altos de Punitaqui,76099463-4,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-30.862304687999938,-71.22979736299999,49,1.0
+Tranque Tamaya,Minera Altos de Punitaqui,76099463-4,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-30.856201171999942,-71.44207763699995,-1,1.0
+Resguardo,Cerro Golpe de Rayo Spa.,77057074-3,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.982604979999962,-69.68518066399997,-1,1.0
+Exploración Noreste,ANTOFAGASTA MINERALS S.A,93920000-2,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.937805175999927,-69.71929931599993,50,1.0
+América,FQM EXPLORATION CHILE S.A (EX MINERA INMET CHILE S.A.),96709010-7,Cu-Mo-Au,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-28.132385253999928,-70.24737548799999,51,1.0
+Berta,SANTIAGO METALS PROYECTO CUATRO LTDA,76338497-7,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.71667480499997,-70.05560302699996,52,1.0
+Antupampa Oeste,SQM S.A.,93007000-9,Cu-Zn,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.532287597999982,-69.85571289099994,-1,1.0
+Añañuca,SQM S.A.,93007000-9,Mo-Cu,Otro,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.36828613299997,-69.84478759799998,-1,1.0
+Paradero El Desierto,SQM S.A.,93007000-9,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.616821288999972,-69.74499511699997,-1,1.0
+Pirita,SQM S.A.,93007000-9,Cu-Zn,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-21.936889647999976,-69.67779540999999,43,1.0
+Solitario,SQM S.A.,93007000-9,Cu-Zn,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.804687499999943,-69.54559326199995,-1,1.0
+Tuina,Santiago Metals Proyecto Cinco Ltda.,76338488-8,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.54711914099994,-68.42810058599997,53,1.0
+Concesión Minera Fenix 13 1-10 (Sectores 1 Y 2),MIEXSAM EDUARDO ALVAREZ E.I.R.L,76478488-K,Cu-Au,Cobre,Región de Arica y Parinacota,ARICA Y PARINACOTA,Proyecto en Evaluación,-18.872802733999947,-70.22747802699996,54,1.0
+Concesión Minera Fenix 13 1-10 (Sectores 3 Y 5),MABEL DE LOURDES ALVAREZ MEDINA,5177231-8,Cu-Au,Cobre,Región de Arica y Parinacota,ARICA Y PARINACOTA,Proyecto en Evaluación,-18.878112792999957,-70.23522949199997,54,1.0
+Concesión Minera Fenix 13 1-10 (Sectores 7 Y 8),RODRIGO ALVARO SIERRALTA ALVAREZ,13413882-3,Cu-Au,Cobre,Región de Arica y Parinacota,ARICA Y PARINACOTA,Proyecto en Evaluación,-18.876708983999947,-70.23968505899995,54,1.0
+Exploración Lince,MINERA MICHILLA SpA,76572421-K,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.683898925999927,-70.17590331999997,-1,1.0
+Valentin Norte,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-21.783691405999946,-68.69970703099995,-1,1.0
+Exploraciones Ramadilla Sur,Eagle Ranch Resources Inc.,59284390-0,Cu-Au,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-27.176391601999967,-70.48071289099994,-1,1.0
+Villarica Este,Compañía Minera San Gerónimo,78801520-8,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.695983886999954,-70.84698486299999,7,1.0
+La Laja,Compañía Minera San Gerónimo,78801520-8,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.632080077999944,-70.77050781299994,7,1.0
+Exploración Distrital Florida,Minera Florida Ltda.,76591160-5,Au,Oro,Región Metropolitana,REGIÓN METROPOLITANA,Proyecto Aprobado,-34.003528108999944,-70.98852982499994,14,1.0
+Azufreras 2022,INVERSIONES BARRICK CONOSUR LTDA,76346280-3,Au-Ag,Oro,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.00872802699996,-68.51440429699994,-1,1.0
+Inca West,MINERA NEWMONT CHILE LIMITADA,78370330-0,Au,Oro,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.569091796999942,-69.84417724599996,-1,1.0
+Paccha,S.C.M. COPIAPO,96623750-3,Cu,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-19.681213378999928,-69.92401122999996,-1,1.0
+Sondajes Exploración Mina Verde,COMINOR INVERSIONES MINERAS S A,96855080-2,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-30.099609374999943,-71.20361328099995,-1,1.0
+Ancocarire,Andex Minerals SpA,76449287-0,Au-Ag-Cu,Oro,Región de Arica y Parinacota,ARICA Y PARINACOTA,Proyecto en Evaluación,-18.785392999999942,-69.24671599999994,-1,1.0
+Comahue,Next Minerals S.A.,76309929-6,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.48907470699993,-70.25640869099993,55,1.0
+Mina Juana,Diomedes Cruz Solarzano,14627660-1,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto en Evaluación,-30.676391601999967,-71.20977783199999,15,1.0
+Chaguarina,Compañía Minera San Gerónimo,78801520-8,Cu-Ag,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-30.14282226599994,-71.04461669899996,-1,1.0
+Cerro Balcon,SQM S.A.,93007000-9,Cu-Mo,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-19.802001952999944,-69.98040771499996,-1,1.0
+Constancia,SQM S.A.,93007000-9,Cu-Mo,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-20.068908690999933,-69.91510009799998,-1,1.0
+Las Dunas,SQM S.A.,93007000-9,Cu-Mo,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-20.452575683999953,-69.97009277299998,56,1.0
+Morro Bayo,SQM S.A.,93007000-9,Cu-Mo,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-20.488891601999967,-70.01538085899995,56,1.0
+Chañarcillo Sur-2,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.72680664099994,-69.32952880899995,57,1.0
+Chañarcillo Sur-3,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.730590819999975,-69.33471679699994,57,1.0
+Cúllen-2021,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.86560058599997,-68.93902587899998,58,1.0
+Espora-8,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.47698974599996,-69.41461181599993,0,1.0
+El Verde,EPG Partners S.A.,76042210-K,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto en Evaluación,-30.827697753999928,-70.54248046899994,-1,1.0
+Joshua,EPG Partners S.A.,76042210-K,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto en Evaluación,-30.601013183999953,-70.87182617199994,-1,1.0
+Juan Soldado,EPG Partners S.A.,76042210-K,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto en Evaluación,-29.65509033199993,-71.26037597699997,59,1.0
+Minera Asturias,EPG Partners S.A.,76042210-K,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto en Evaluación,-29.491394042999957,-71.05261230499997,-1,1.0
+Jaspeado,CODELCO,61704000-K,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.510314940999933,-68.80407714799998,-1,1.0
+La Polvora,CODELCO,61704000-K,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.797912597999982,-69.53601074199997,-1,1.0
+Mani,Anglo American Chile Inversiones S.A.,76457675-6,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.573791503999928,-69.24499511699997,27,1.0
+Paciencia,Teck Resources Chile Ltda.,78127000-8,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.70031738299997,-69.38580322299998,60,1.0
+Farallón Sanchez,Hudbay Chile SpA,96847520-7,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-31.50500488299997,-71.00799560499996,-1,1.0
+Fiel Rosita,Hudbay Chile SpA,96847520-7,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-28.39868164099994,-70.06878662099996,-1,1.0
+San Antonio,Hudbay Chile SpA,96847520-7,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-29.058776854999962,-70.79449462899998,61,1.0
+Trilco,Hudbay Chile SpA,96847520-7,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-28.140197753999928,-70.22399902299998,51,1.0
+Higueras,FUTURA KPUENTE SPA,76495285-5,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-30.443298339999956,-71.14007568399995,-1,1.0
+Anaquena,MINERA FREEPORT MCMORAN SOUTH AMERICA LTDA.,78273180-7,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto en Evaluación,-24.693298339999956,-69.16802978499999,17,1.0
+Real,MINERA FREEPORT MCMORAN SOUTH AMERICA LTDA.,78273180-7,Cu,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-21.07409667999997,-69.09619140599995,26,1.0
+Ricardo,MINERA FREEPORT MCMORAN SOUTH AMERICA LTDA.,78273180-7,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.426086425999927,-68.90478515599995,-1,1.0
+Soledad-Noelia,MINERA FREEPORT MCMORAN SOUTH AMERICA LTDA.,78273180-7,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.98919677699996,-69.23608398399995,62,1.0
+Tres Marías,MINERA FREEPORT MCMORAN SOUTH AMERICA LTDA.,78273180-7,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.51940917999997,-69.25482177699996,27,1.0
+Aroma,SCM Virginia,96538290-9,Cu,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-19.757995604999962,-69.71771240199996,-1,1.0
+Pajonales II,Compañía Minera del Pacífico S.A.,94638000-8,Fe,Hierro,Región de Atacama,ATACAMA,Proyecto en Evaluación,-29.141479491999974,-71.00659179699994,10,1.0
+Pajonales II - Sector Cortadera,Compañía Minera del Pacífico S.A.,94638000-8,Fe,Hierro,Región de Atacama,ATACAMA,Proyecto en Evaluación,-29.105407714999956,-71.00592040999999,10,1.0
+Puquio,SCM Virginia,96538290-9,Cu,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-20.707580565999933,-69.44372558599997,-1,1.0
+Cabaña Oeste-1,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.81860351599994,-69.79351806599993,1,1.0
+Carancho-1,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.80249023399995,-69.77441406299994,1,1.0
+Carmelitas-1,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.79217529299996,-69.68310546899994,1,1.0
+Carmelitas-2,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.804809569999975,-69.67309570299994,1,1.0
+Fortuna Sur-1,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-53.03851318399995,-68.88079833999996,63,1.0
+Fortuna-2,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-53.00781249999994,-68.82312011699997,63,1.0
+Huiro-1A,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.780090331999986,-69.77709960899995,1,1.0
+Lutora Sur-7,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.866577147999976,-69.61279296899994,1,1.0
+Lynch-42,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.86828613299997,-69.02209472699997,58,1.0
+Paraguaya-2,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.86151122999996,-68.71667480499997,64,1.0
+Lagarto,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.365905761999954,-69.29840087899998,41,1.0
+Majo,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.06488037099996,-69.32971191399997,-1,1.0
+Lana-Corina,SCM ANTARES,76170584-9,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto en Evaluación,-31.121276854999962,-71.11480712899998,-1,1.0
+Mina Mirasol,MINERA CRUZ LIMITADA,76118700-7,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto en Evaluación,-30.67028808599997,-71.20690917999997,15,1.0
+La Trivia,CODELCO,61704000-K,Cu,Cobre,Región Metropolitana,REGIÓN METROPOLITANA,Proyecto Aprobado,-33.09490966799996,-70.55871581999997,-1,1.0
+Las Areneras Norte,CODELCO,61704000-K,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-33.08599853499993,-70.24841308599997,12,1.0
+Proyecto Catanave,SOUTHERN COPPER CORPORATION AGENCIA CHILE,59105570-4,Au-Cu,Oro,Región de Arica y Parinacota,ARICA Y PARINACOTA,Proyecto Aprobado,-18.553710937999938,-69.35528564499998,-1,1.0
+Proyecto San Benito,SOUTHERN COPPER CORPORATION AGENCIA CHILE,59105570-4,Cu-Mo,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-20.293701171999942,-69.24902343799994,-1,1.0
+Proyecto Ticnamar,SOUTHERN COPPER CORPORATION AGENCIA CHILE,59105570-4,Cu-Mo,Cobre,Región de Arica y Parinacota,ARICA Y PARINACOTA,Proyecto Aprobado,-18.576110839999956,-69.46441650399998,-1,1.0
+Silica,CODELCO,61704000-K,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.04669189499998,-68.94689941399997,-1,1.0
+Tornasol,CODELCO,61704000-K,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.096191405999946,-68.78179931599993,65,1.0
+Visna,CODELCO,61704000-K,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.159729003999928,-68.74230956999997,65,1.0
+La Carreta Oriente,CODELCO,61704000-K,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.383789062999938,-69.50292968799994,2,1.0
+Las Lomas,CODELCO,61704000-K,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.341186522999976,-69.67669677699996,2,1.0
+Las Torres,CODELCO,61704000-K,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.30828857399996,-69.68609619099993,2,1.0
+Pampa Oeste,SQM S.A.,93007000-9,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.145507812999938,-70.02551269499997,-1,1.0
+Susana,SQM S.A.,93007000-9,Cu-Mo,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-20.842102050999927,-69.85858154299996,66,1.0
+Tentación,SQM S.A.,93007000-9,Cu-Mo,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-20.831787108999947,-69.84948730499997,66,1.0
+Triunfo,Socieda Punta del Cobre S.A,96561560-1,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto en Evaluación,-27.07012939499998,-69.98809814499998,37,1.0
+Transito,Socieda Punta del Cobre S.A,96561560-1,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto en Evaluación,-27.51849365199996,-70.34960937499994,3,1.0
+Laura Victoria,Minera Peñoles de Chile Limitada,76670380-1,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.77239990199996,-70.03308105499997,52,1.0
+Exploración de Pertenencias La Canela,KUPRO RESOURCES SPA,76248357-2,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-32.41290283199993,-71.01721191399997,67,1.0
+Los Domos,Minera Equus Chile Ltda,76166482-4,Au-Ag,Oro,Región Aysén,REGIÓN AYSÉN,Proyecto Aprobado,-46.67749023399995,-71.75958251999998,68,1.0
+Carpintero,YPF Chile S.A.,76162492-K,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-53.206298827999944,-68.80249023399995,30,1.0
+Guanaco Exploración,GUANACO COMPAÑIA MINERA SPA,78097950-K,Au-Ag,Oro,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.134704589999956,-69.59521484399994,69,1.0
+Arcángel (Proyecto Concluido),VALE EXPLORACIONES CHILE LTDA,76031013-1,Cu,Cobre,Región del Maule,MAULE,Proyecto Aprobado,-35.13360595699993,-70.57501220699999,-1,1.0
+Sondajes de Exploración de Litio,SIMCO SPA,76590221-5,Li,Otro,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.862304687999938,-69.07458496099997,70,1.0
+Proyecto Pampa Dos,MINERA DEL NORTE SpA,76837669-7,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.515808104999962,-68.41009521499996,53,1.0
+Exploración La Reina,MINERA MICHILLA SpA,76572421-K,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.598510741999974,-70.10900878899997,71,1.0
+Rubi,Minera Mirasol Chile Limitada,76907760-K,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.44750976599994,-69.63092040999999,2,1.0
+Barriga,CODELCO,61704000-K,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-33.08850097699997,-70.19500732399996,12,1.0
+Cerro Pasco,CODELCO,61704000-K,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-33.07818603499993,-70.26977539099994,12,1.0
+El Morado,CODELCO,61704000-K,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-33.17150878899997,-70.25512695299994,12,1.0
+Aspromin,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.635498046999942,-69.24609374999994,19,1.0
+Calamazo,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.89630126999998,-69.10369872999996,-1,1.0
+Némesis,VALE EXPLORACIONES CHILE LTDA,76031013-1,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-28.132995604999962,-69.39709472699997,-1,1.0
+Dorada,Kinross Minera Chile Ltda.,76028345-2,Au,Oro,Región de Atacama,ATACAMA,Proyecto en Evaluación,-26.210388183999953,-68.81982421899994,9,1.0
+Mantos de Oro,Compañía Minera Mantos de Oro,78928380-K,Au,Oro,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.812499999999943,-69.28820800799997,-1,1.0
+La Tropa,SOCIEDAD PUNTA DEL COBRE,96561560-1,Cu-Au,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-27.37200927699996,-70.08489990199996,31,1.0
+Puntillas (TOVAKU),SOCIEDAD PUNTA DEL COBRE,96561560-1,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-21.936523437999938,-69.77270507799994,43,1.0
+Resguardo,SOCIEDAD PUNTA DEL COBRE,96561560-1,Cu-Au,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-27.49591064499998,-70.24920654299996,3,1.0
+Checo de Cobre,MINERA NITTETSU CHILE LIMITADA,78442450-2,Cu-Au,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-27.554321288999972,-70.12609863299997,-1,1.0
+Caldera,FQM EXPLORATION CHILE S.A (EX MINERA INMET CHILE S.A.),96709010-7,Cu-Mo-Au,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.880493163999972,-69.87091064499998,72,1.0
+Einstein,FQM EXPLORATION CHILE S.A (EX MINERA INMET CHILE S.A.),96709010-7,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-24.276611327999944,-69.63549804699994,73,1.0
+San Bernardo,FQM EXPLORATION CHILE S.A (EX MINERA INMET CHILE S.A.),96709010-7,Cu-Mo-Au,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.655029296999942,-69.43389892599998,28,1.0
+Silvestre,Compañía Minera Salitrales Limitada,76033303-4,Au-Ag,Oro,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.80560302699996,-69.95178222699997,11,1.0
+Vizcachitas,COMPAÑIA MINERA VIZCACHITAS HOLDING,77147590-6,Cu-Mo,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-32.41558837899993,-70.42608642599998,74,1.0
+V-01,QUANTUM PACIFIC EXPLORATION SPA,76320311-5,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.779296874999943,-70.01361083999996,11,1.0
+Nueva Esperanza,Laguna Resources Chile Limitada,76056731-0,Au-Ag,Oro,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.650512694999975,-69.19989013699995,-1,1.0
+Proyecto Montonero,SOUTHERN COPPER CORPORATION AGENCIA CHILE,59105570-4,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.39758300799997,-70.30517578099995,75,1.0
+Proyecto Resguardo,SOUTHERN COPPER CORPORATION AGENCIA CHILE,59105570-4,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.40649414099994,-70.31030273399995,75,1.0
+Lautaro Sur-5,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.844604491999974,-69.50421142599998,1,1.0
+Lautaro Sur-6,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.83648681599993,-69.49517822299998,1,1.0
+Lautaro-13,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.785095214999956,-69.56701660199997,1,1.0
+Lautaro-14,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.82287597699997,-69.53491210899995,1,1.0
+Lircay-2,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.88031005899995,-69.67260742199994,1,1.0
+Paraguaya-3,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.832702636999954,-68.74719238299997,64,1.0
+Paraguaya-4,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.854309081999986,-68.76702880899995,64,1.0
+Pelequén-1,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.902282714999956,-69.68652343799994,1,1.0
+Punta Baja-14,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.82287597699997,-69.54040527299998,1,1.0
+Punta Baja-15,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.59362792999997,-69.54388427699996,-1,1.0
+Riío del Oro ZG-1,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.851684569999975,-69.74389648399995,1,1.0
+Rosal-2,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.82202148399995,-69.64019775399998,1,1.0
+Sobrero Oeste-2,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.739501952999944,-69.31311035199997,57,1.0
+Teno Sur-1,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.71789550799997,-69.53948974599996,1,1.0
+Teno-3,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.70428466799996,-69.52490234399994,1,1.0
+Loma Tendida,CODELCO,61704000-K,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-32.170593261999954,-70.64202880899995,-1,1.0
+Los Azules,CODELCO,61704000-K,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-32.51580810499996,-70.14349365199996,13,1.0
+Los Milos,CODELCO,61704000-K,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-33.114501952999944,-70.28149414099994,12,1.0
+Espejo,Anglo American Chile Inversiones S.A.,76457675-6,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.422485351999967,-69.43249511699997,-1,1.0
+El Inca,CODELCO,61704000-K,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.25891113299997,-69.10870361299999,23,1.0
+Farellon Delirio,Minera Las Cenizas,79963260-8,Cu-Ag,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-32.539001464999956,-71.08508300799997,67,1.0
+Cerro Negro,ENAMI,61703000-4,Cu-Au,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.183227538999972,-70.25531005899995,-1,1.0
+Los Helados,Minera Frontera del Oro SpA,77320410-1,Cu-Au,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-28.33990478499993,-69.58660888699995,-1,1.0
+Montezuma,SCM Montezuma,76574679-5,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.689025878999928,-68.90460205099998,-1,1.0
+Loro,Minera Mena,77960100-5,Au-Ag,Oro,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-24.629211425999983,-69.51818847699997,-1,1.0
+Bornita,MINERA BORNITA SPA,76472461-5,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-30.907592772999976,-70.38897705099998,-1,1.0
+Pajonales,Compañía Minera del Pacífico S.A.,94638000-8,Fe,Hierro,Región de Atacama,ATACAMA,Proyecto Aprobado,-29.15130615199996,-70.95538330099998,10,1.0
+Praga,Compañía Minera del Pacífico S.A.,94638000-8,Fe,Hierro,Región de Atacama,ATACAMA,Proyecto Aprobado,-29.01708984399994,-70.88098144499997,61,1.0
+Sierra La Bandera,Compañía Minera del Pacífico S.A.,94638000-8,Fe,Hierro,Región de Atacama,ATACAMA,Proyecto Aprobado,-28.390197753999928,-70.85559081999997,33,1.0
+Zapallo,Compañía Minera del Pacífico S.A.,94638000-8,Fe,Hierro,Región de Atacama,ATACAMA,Proyecto Aprobado,-29.257385253999928,-71.09838867199994,40,1.0
+Mina María Elena,CIA. EXPLO. DE MINAS SAN ANDRES,83714300-4,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto en Evaluación,-27.691894530999946,-70.15850830099998,76,1.0
+PROYECTO TRANSITO,SOUTHERN COPPER CORPORATION AGENCIA CHILE,59105570-4,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-21.728698729999962,-69.76391601599994,-1,1.0
+Proyecto Sagasca - Mamiña,HALDEMAN MINING COMPANY SA,96955560-3,Cu,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-20.171508788999972,-69.26690673799999,-1,1.0
+Nova Galicia (2016-2017),Minera Altos de Punitaqui,76099463-4,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-30.903686522999976,-71.27142333999996,49,1.0
+Proyecto Melipilla,MINERA MELON S.A,76163321-K,Calizas,Otro,Región Metropolitana,REGIÓN METROPOLITANA,Proyecto Aprobado,-33.80029296899994,-71.34948730499997,-1,1.0
+San Andrés,Minera Altos de Punitaqui,76099463-4,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-30.72570800799997,-71.21630859399994,15,1.0
+Quimal,Anglo American Chile Inversiones S.A.,76457675-6,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.09771728499993,-68.72839355499997,77,1.0
+Rabona,Anglo American Chile Inversiones S.A.,76457675-6,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-21.750610351999967,-68.83117675799997,21,1.0
+Recalcine,Anglo American Chile Inversiones S.A.,76457675-6,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-21.73638915999993,-69.23760986299999,-1,1.0
+SOCIEDAD MINERA 3H LIMITADA,SOCIEDAD MINERA 3H LIMITADA,76312388-K,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto en Evaluación,-32.73370361299993,-70.97570800799997,78,1.0
+"SOCIEDAD MINERA A&O LTDASOCIEDAD MINERA A&O LTDA.
+",SOCIEDAD MINERA A&O LTDA.,76722598-9,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto en Evaluación,-32.73370361299993,-70.97570800799997,78,1.0
+Chepica,MINERA FREEPORT MCMORAN SOUTH AMERICA LTDA.,78273180-7,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-32.23107910199997,-70.46459960899995,-1,1.0
+Amos-Fenix,Teck Resources Chile Ltda.,78127000-8,Cu-Au,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-32.29107665999993,-70.30822753899997,-1,1.0
+Furano,MINERA NITTETSU CHILE LIMITADA,78442450-2,Cu-Au,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-19.895690917999957,-69.42980956999997,-1,1.0
+Anaquena,MINERA FREEPORT MCMORAN SOUTH AMERICA LTDA.,78273180-7,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-24.696594237999932,-69.16979980499997,17,1.0
+Genoveva,VALE EXPLORACIONES CHILE LTDA,76031013-1,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.400512694999975,-69.10839843799994,-1,1.0
+Misticsa,VALE EXPLORACIONES CHILE LTDA,76031013-1,Cu,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-19.637329101999967,-69.28308105499997,-1,1.0
+Sierra Mariposa,VALE EXPLORACIONES CHILE LTDA,76031013-1,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.764526366999974,-69.02539062499994,-1,1.0
+Copiapó Nordeste,MINERA NITTETSU CHILE LIMITADA,78442450-2,Cu-Fe,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-27.021789550999983,-70.11187744099993,32,1.0
+Pia 169 del 1 Al 8,SCM Copiapó,96623750-3,Nitratos,Otro,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-19.835388183999953,-69.85229492199994,-1,1.0
+Challacollo,Minera Mandalay Challacollo S.A.,96966850-5,Ag,Otro,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-20.953124999999943,-69.35101318399995,-1,1.0
+Tropico,Trópico SpA,76337777-6,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.445312499999943,-70.21588134799998,55,1.0
+Araucano-1,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.80529785199997,-69.74938964799998,1,1.0
+Arenal Suroeste,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.91802978499993,-69.66650390599995,1,1.0
+Proyecto de Reconocimiento Mina La Canela Subterranea,KUPRO RESOURCES SPA,76248357-2,Cu-Ag,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto en Evaluación,-32.41119384799998,-71.01171874999994,67,1.0
+Retamilla,Compañía Minera San Gerónimo,78801520-8,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.86938476599994,-70.92529296899994,8,1.0
+Veta Catalina,Compañía Minera San Gerónimo,78801520-8,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.69317626999998,-70.84960937499994,7,1.0
+Veta Chemulpo,Compañía Minera San Gerónimo,78801520-8,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.69317626999998,-70.85168456999997,7,1.0
+Veta Justicia,Compañía Minera San Gerónimo,78801520-8,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.69512939499998,-70.85040283199999,7,1.0
+Puquios,Cuprum Resources Chile SPA,76125921-0,Cu-Mo,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.440429687999938,-70.71148681599993,79,1.0
+Rubi,FQM Exploration Chile S.A.,96709010-7,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.44378662099996,-69.65197753899997,2,1.0
+Anomalía La Sal,CODELCO,61704000-K,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.38500976599994,-69.56799316399997,2,1.0
+Arena Norte,ANTOFAGASTA MINERALS S.A,93920000-2,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.41180419899996,-70.22961425799997,75,1.0
+Colliguay,Sumitomo Metal Mining Chile Ltda,76005488-7,Au-Ag,Oro,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-33.18139648399995,-71.21478271499996,-1,1.0
+Garuma,MINERA FREEPORT MCMORAN SOUTH AMERICA LTDA.,78273180-7,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.429016112999932,-69.33038330099998,41,1.0
+Maní,MINERA FREEPORT MCMORAN SOUTH AMERICA LTDA.,78273180-7,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.591796874999943,-69.25488281299994,27,1.0
+Quinchamale,MINERA FREEPORT MCMORAN SOUTH AMERICA LTDA.,78273180-7,Cu,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-20.658508300999927,-68.90399169899996,25,1.0
+Veta Rabiosa,Compañía Minera San Gerónimo,78801520-8,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.695983886999954,-70.84790039099994,7,1.0
+Veta Villarica,Compañía Minera San Gerónimo,78801520-8,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.69708251999998,-70.84692382799994,7,1.0
+Celinda,Santiago Metals Proyecto Uno Ltda,76264794-k,Cu-Ag,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.041687011999954,-68.55938720699999,80,1.0
+Mamuta,Rio Tinto,59032420-5,Cu,Cobre,Región de Arica y Parinacota,ARICA Y PARINACOTA,Proyecto Aprobado,-18.99719238299997,-69.53277587899998,-1,1.0
+Olimpo,Rio Tinto,59032420-5,Cu,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-21.07000732399996,-68.61999511699997,16,1.0
+Palmani,Rio Tinto,59032420-5,Cu,Cobre,Región de Arica y Parinacota,ARICA Y PARINACOTA,Proyecto Aprobado,-18.25231933599997,-69.77130126999998,-1,1.0
+Aurora,CODELCO,61704000-K,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.20031738299997,-69.02410888699995,-1,1.0
+Falco,YPF Chile S.A.,76162492-K,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-53.300720214999956,-68.72058105499997,29,1.0
+Gaviota Sur,YPF Chile S.A.,76162492-K,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-53.291503905999946,-68.65808105499997,29,1.0
+Huala,YPF Chile S.A.,76162492-K,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-53.29321289099994,-68.87030029299996,29,1.0
+Loica,YPF Chile S.A.,76162492-K,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-53.54791259799998,-69.00549316399997,-1,1.0
+Atlantida,FQM Exploration Chile S.A.,96709010-7,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.977111815999933,-69.98748779299996,6,1.0
+Caldera,FQM Exploration Chile S.A.,96709010-7,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.89440917999997,-69.80548095699999,72,1.0
+Andes-Central,MINERA RELINCHO COPPER SA,99589930-2,Cu-Mo,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-28.548583983999947,-70.33648681599993,39,1.0
+Bandurrias,Capstone Mining Chile SpA,76214436-0,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-30.82141113299997,-70.66857910199997,-1,1.0
+Suri,SQM S.A.,93007000-9,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.653015136999954,-69.95239257799994,81,1.0
+Wanka Pampa,SQM S.A.,93007000-9,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.317687987999932,-69.67059326199995,82,1.0
+Proyecto La Niña,MINERA MELON S.A,76163321-K,Carbonato de Calcio,Otro,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-30.308776854999962,-71.50299072299998,-1,1.0
+Proyecto Lengua de Vaca,MINERA MELON S.A,76163321-K,Carbonato de Calcio,Otro,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-30.285827636999954,-71.62499999999994,-1,1.0
+Caspiche,Norte Abierto SpA,77116500-1,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-27.68402099599996,-69.34228515599995,35,1.0
+Punta del Viento,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.070983886999954,-69.28472900399998,-1,1.0
+Puren,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-24.321594237999932,-69.70489501999998,73,1.0
+Quimal,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.09771728499993,-68.71862792999997,77,1.0
+Aico,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Arica y Parinacota,ARICA Y PARINACOTA,Proyecto Aprobado,-18.784790038999972,-69.42950439499998,-1,1.0
+D15,QUANTUM PACIFIC EXPLORATION SPA,76320311-5,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.179077147999976,-69.37438964799998,22,1.0
+E200,QUANTUM PACIFIC EXPLORATION SPA,76320311-5,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.53698730499997,-69.32482910199997,27,1.0
+Abran,Sumitomo Metal Mining Chile Ltda,76005488-7,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-21.830200194999975,-68.83190917999997,21,1.0
+Flor del Desierto,Sumitomo Metal Mining Chile Ltda,76005488-7,Cu-Mo,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-20.049804687999938,-69.13378906299994,18,1.0
+Pase,Far West Exploration S.A.,76069159-3,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.184082030999946,-70.09997558599997,-1,1.0
+Remolinos,Far West Exploration S.A.,76069159-3,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.812988280999946,-70.25469970699999,-1,1.0
+Las Petacas,Las Petacas SpA,76259205-3,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-27.68737792999997,-70.37609863299997,-1,1.0
+Alcaparra D,Compañía Minera del Pacífico S.A.,94638000-8,Fe,Hierro,Región de Atacama,ATACAMA,Proyecto Aprobado,-28.651123046999942,-70.91540527299998,83,1.0
+Cortadera,Compañía Minera del Pacífico S.A.,94638000-8,Fe,Hierro,Región de Atacama,ATACAMA,Proyecto Aprobado,-29.103088378999928,-71.01098632799994,10,1.0
+Don Franco,Rio Tinto,59032420-5,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.037597655999946,-69.61968994099993,-1,1.0
+San Marcos,Rio Tinto,59032420-5,Cu,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-20.403198241999974,-70.12127685499996,-1,1.0
+Pampa Fuego Mirador,Compañía Minera Centinela,76727404-2,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.005187987999932,-68.98248290999999,-1,1.0
+Cerro Amarillo,ANTOFAGASTA MINERALS S.A,93920000-2,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.61102294899996,-69.46929931599993,-1,1.0
+Exploración Blanco,ANTOFAGASTA MINERALS S.A,93920000-2,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.53430175799997,-70.03240966799996,-1,1.0
+Alto Barriga,CODELCO,61704000-K,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-33.09527587899993,-70.17687988299997,12,1.0
+Alto Los Leones,CODELCO,61704000-K,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-33.04272460899995,-70.15081787099996,12,1.0
+Potrero Escondido,CODELCO,61704000-K,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-33.06201171899994,-70.21771240199996,12,1.0
+Fenix Norte,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Arica y Parinacota,ARICA Y PARINACOTA,Proyecto Aprobado,-18.135986327999944,-69.70330810499996,-1,1.0
+Guanaco,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-24.947998046999942,-69.38659667999997,-1,1.0
+Pampa Blanca,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-24.61370849599996,-69.38031005899995,-1,1.0
+Pampa Copiapina,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.31622314499998,-69.49548339799998,-1,1.0
+Pampa Mirador,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.403076171999942,-69.69500732399996,82,1.0
+Pegaso,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.761901854999962,-69.45141601599994,60,1.0
+Nakiri,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.09020996099997,-69.51690673799999,-1,1.0
+Natalia,CODELCO,61704000-K,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.261474608999947,-69.71612548799999,2,1.0
+Pisqueros Española,CODELCO,61704000-K,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.267517089999956,-69.53448486299999,2,1.0
+Punta del Viento Oriental,CODELCO,61704000-K,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.270812987999932,-69.70941162099996,2,1.0
+Proyecto Cuenca Laguna Negro Francisco,LAGUNA NEGRO FRANCISCO SPA,9405936-4,Li,Otro,Región de Atacama,ATACAMA,Proyecto Aprobado,-27.509216308999953,-69.18377685499996,-1,1.0
+REGALO,MINERA LAS CENIZAS,79963260-8,Cu-Ag,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-32.481689452999944,-71.05950927699996,67,1.0
+Luciano Norte,Norte Abierto SpA,77116500-1,Au,Oro,Región de Atacama,ATACAMA,Proyecto Aprobado,-27.779296874999943,-69.38421630899995,36,1.0
+Úrsula,Norte Abierto SpA,77116500-1,Au,Oro,Región de Atacama,ATACAMA,Proyecto Aprobado,-27.77191162099996,-69.37670898399995,36,1.0
+Escarpe,ANTOFAGASTA MINERALS S.A,93920000-2,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.881591796999942,-69.76831054699994,50,1.0
+Exploracion Sur,ANTOFAGASTA MINERALS S.A,93920000-2,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.042907714999956,-69.72369384799998,-1,1.0
+Exploración Western,ANTOFAGASTA MINERALS S.A,93920000-2,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.96368408199993,-69.79217529299996,50,1.0
+Laberinto,ANTOFAGASTA MINERALS S.A,93920000-2,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.470886229999962,-69.33520507799994,-1,1.0
+K08,QUANTUM PACIFIC EXPLORATION SPA,76320311-5,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.426391601999967,-69.88098144499997,45,1.0
+Quimal,ANTOFAGASTA MINERALS S.A,93920000-2,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.09771728499993,-68.71862792999997,77,1.0
+Pastos Largos,CODELCO,61704000-K,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-21.859008788999972,-68.84228515599995,21,1.0
+Celia,SQM S.A.,93007000-9,Cu-Zn,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.145202636999954,-69.73858642599998,-1,1.0
+Comejen,SQM S.A.,93007000-9,Cu-Ag,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.651916503999928,-69.98132324199997,81,1.0
+Guallata,SQM S.A.,93007000-9,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.62060546899994,-69.95800781299994,81,1.0
+Kiula,SQM S.A.,93007000-9,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.63391113299997,-69.95629882799994,81,1.0
+Casado,Anglo American Chile Inversiones S.A.,76457675-6,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.384704589999956,-69.02868652299998,-1,1.0
+Chitigua Central,Anglo American Chile Inversiones S.A.,76457675-6,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-21.589111327999944,-68.80859374999994,20,1.0
+Nereida,MINERA FREEPORT MCMORAN SOUTH AMERICA LTDA.,78273180-7,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.007202147999976,-68.61138915999999,80,1.0
+Soledad,MINERA FREEPORT MCMORAN SOUTH AMERICA LTDA.,78273180-7,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.98919677699996,-69.23620605499997,62,1.0
+Proyecto Sumo Pampa Orcoma,SQM Nitratos S.A.,96592190-7,Nitratos,Otro,Región de Tarapacá,TARAPACÁ,Proyecto en Evaluación,-19.89349365199996,-69.97442626999998,-1,1.0
+Pequita,Compañía Minera San Gerónimo,78801520-8,Cu-Ag,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.82177734399994,-71.16278076199995,84,1.0
+Santa Barbara,Compañía Minera San Gerónimo,78801520-8,Cu-Ag,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.819580077999944,-71.15502929699994,84,1.0
+Fundición,Compañía Minera San Gerónimo,78801520-8,Cu-Ag,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.82019042999997,-71.14727783199999,84,1.0
+Quebrada Los Placeres,Compañía Minera San Gerónimo,78801520-8,Cu-Ag,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.823486327999944,-71.16650390599995,84,1.0
+Rosa,Compañía Minera San Gerónimo,78801520-8,Cu-Ag,Cobre,Región de Coquimbo,COQUIMBO,Proyecto en Evaluación,-29.65930175799997,-71.02508544899996,-1,1.0
+Puzolana-Condor,Cementos Bío Bío S.A.,91755000-K,Puzolana,Otro,Región de Arica y Parinacota,ARICA Y PARINACOTA,Proyecto en Evaluación,-18.65411376999998,-70.19592285199997,-1,1.0
+Yeso Picaflor,Cementos Bío Bío S.A.,91755000-K,Yeso,Otro,Región de Arica y Parinacota,ARICA Y PARINACOTA,Proyecto en Evaluación,-18.363586425999927,-70.06671142599998,-1,1.0
+Yeso Torcaza,Cementos Bío Bío S.A.,91755000-K,Yeso,Otro,Región de Arica y Parinacota,ARICA Y PARINACOTA,Proyecto en Evaluación,-18.76800537099996,-69.90850830099998,-1,1.0
+Manto 2,CIA. MRA. Y COM. SALI HOCHSCHILD S.A.,90853000-4,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto en Evaluación,-27.361328124999943,-70.16778564499998,31,1.0
+Manto Cobrizo,CIA. MINERA CARMEN BAJO,81556700-5,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-27.363586425999983,-70.17291259799998,31,1.0
+América,INVERSIONES AMÉRICA SpA,76584392-8,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-28.119689940999933,-70.24737548799999,51,1.0
+Huara,SCM COSAYACH YODO,96625710-5,Nitratos,Otro,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-20.02899999999994,-69.80099999999999,-1,1.0
+Paccha,Sociedad Contractual Minera Copiapó,96623750-3,Nitratos,Otro,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-19.540026181999963,-69.89299999999997,-1,1.0
+La Fortuna,SOC. EXPLORACION Y DESARROLLO MINERO (EXPLODESA),79812520-6,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-32.68176099999994,-71.02199999999993,78,1.0
+Agustina,CODELCO,61704000-k,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-21.95622599999996,-69.18207799999993,-1,1.0
+Anillo Central,CODELCO,61704000-k,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-24.28099999999995,-69.38619999999997,85,1.0
+Anillo NW,CODELCO,61704000-k,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-24.266299999999944,-69.44919999999996,85,1.0
+Agua Dulce,Compañia Mantos de la Luna S.A.,96939240-2,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.248299999999972,-70.22349999999994,86,1.0
+Camelia Unión,Compañia Mantos de la Luna S.A.,96939240-2,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.230899999999963,-70.17129999999997,86,1.0
+Angélica,Compañia Mantos de la Luna S.A.,96939240-2,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.15739999999994,-70.13849999999996,86,1.0
+Gimena,Compañia Mantos de la Luna S.A.,96939240-2,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.15289999999993,-70.17579999999998,86,1.0
+Gina,Compañia Mantos de la Luna S.A.,96939240-2,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.273199999999974,-70.15379999999993,86,1.0
+Kiruna,Compañia Mantos de la Luna S.A.,96939240-2,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.538399999999967,-70.12699999999995,71,1.0
+Longko,Compañia Mantos de la Luna S.A.,96939240-2,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.542699999999968,-70.06529999999998,71,1.0
+María Sur,Compañia Mantos de la Luna S.A.,96939240-2,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.30209999999994,-70.19339999999994,86,1.0
+MPS,Compañia Mantos de la Luna S.A.,96939240-2,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.54839999999996,-70.22139999999996,71,1.0
+Paulina,Compañia Mantos de la Luna S.A.,96939240-2,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.22769999999997,-70.14179999999993,86,1.0
+Proyecto Las Marías,Compañia Mantos de la Luna S.A.,96939240-2,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.28589999999997,-70.18709999999999,86,1.0
+Diorita,Compañia Mantos de la Luna S.A.,96939240-2,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.310199999999952,-70.17539999999997,86,1.0
+Ojeda,Compañia Mantos de la Luna S.A.,96939240-2,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.162499999999966,-69.88309999999996,44,1.0
+Los Domos,Southern Gold SpA.,76613948-5,Au,Oro,Región Aysén,REGIÓN AYSÉN,Proyecto en Evaluación,-46.67229999999995,-71.77819999999997,68,1.0
+TIUQUE-1,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.84039999999993,-69.88159999999993,1,1.0
+WALOLEN ZG-1,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.83837537399995,-69.84231999999997,1,1.0
+PICUYO ZG-1,ENAP,92604000-6,Hidrocarburos,Hidrocarburos,Región de Magallanes,MAGALLANES,Proyecto Aprobado,-52.38669633799998,-70.45987499999995,-1,1.0
+Kaburkaála,CODELCO,61704000-k,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.77479999999997,-69.08759999999995,-1,1.0
+Relojito,CODELCO,61704000-k,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.548899999999946,-69.09529999999995,24,1.0
+Tama Norte,CODELCO,61704000-k,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.205199999999934,-69.38799999999998,22,1.0
+Santa Clara,Rio Tinto,59032420-5,Cu-Au,Cobre,Región de O'Higgins,O'HIGGINS,Proyecto Aprobado,-33.972699999999975,-70.38549999999998,-1,1.0
+Ruta100,Rio Tinto,59032420-5,Cu-Au,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.55529999999993,-69.00969999999995,-1,1.0
+Nolasco,Rio Tinto,59032420-5,Cu-Au,Cobre,Región Metropolitana,REGIÓN METROPOLITANA,Proyecto Aprobado,-33.88299999999998,-70.34079999999994,-1,1.0
+Don Clemente,Rio Tinto,59032420-5,Cu-Au,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.46659999999997,-70.22949999999997,71,1.0
+ARCAS,Rio Tinto,59032420-5,Cu-Au,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-21.793699999999944,-69.13539999999995,-1,1.0
+Pampa Paciencia,ASTRA EXPLORATION CHILE SpA,77359794-4,Au-Ag,Oro,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.74849999999998,-69.43569999999994,60,1.0
+Campana,Inversiones Anglo American Norte SpA,81175700-4,Cu,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-20.739799999999946,-68.96979999999996,-1,1.0
+Campamento,Inversiones Anglo American Norte SpA,81175700-4,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.581299999999942,-69.23799999999994,19,1.0
+Charango,Inversiones Anglo American Norte SpA,81175700-4,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.668799999999976,-69.43119999999993,28,1.0
+Exploración Distrital Florida,Minera Florida Ltda.,76591160-5,Au-Zn,Oro,Región Metropolitana,REGIÓN METROPOLITANA,Proyecto Aprobado,-34.000099999999975,-70.99639999999994,14,1.0
+NEGRA BERTA 1 al 20,PABLO VIVERO A,7521184-8,Cu,Cobre,Región de Arica y Parinacota,ARICA Y PARINACOTA,Proyecto Aprobado,-18.45649999999995,-69.48739999999998,46,1.0
+Altos de Parca,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-19.948999999999955,-69.16019999999997,-1,1.0
+Haydee,BHP CHILE INC,86160300-8,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto Aprobado,-26.065799999999967,-69.22689999999994,34,1.0
+Cerro Bayo,Minera Equus Chile SpA,76166482-4,Au-Ag,Oro,Región Aysén,REGIÓN AYSÉN,Proyecto Aprobado,-46.55049999999994,-71.95609999999994,87,1.0
+Cerro Buenos Aires,Pampa Metals Chile SpA,77190753-9,Au-Cu,Oro,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-24.649981999999966,-69.75200899999999,47,1.0
+Redondo_Veronica,Pampa Metals Chile SpA,77190753-9,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.885951999999975,-69.01001999999994,-1,1.0
+Ricardo,MINERA FREEPORT MCMORAN SOUTH AMERICA LTDA.,78273180-7,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto en Evaluación,-22.533999999999935,-68.91799999999995,-1,1.0
+SOCIEDAD MINERA 3H LIMITADA,SOCIEDAD MINERA 3H LIMITADA,76312388-K,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto en Evaluación,-32.72999999999996,-70.97499999999997,78,1.0
+MINERA 3H LIMITADA,MINERA 3H LIMITADA,72504292-5,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto en Evaluación,-32.72799999999995,-70.97599999999994,78,1.0
+SOCIEDAD MINERA A&O LTDA.,SOCIEDAD MINERA A&O LTDA.,76722598-9,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto en Evaluación,-32.74199999999996,-70.97499999999997,78,1.0
+Uva,SOC. EXPLORACION Y DESARROLLO MINERO (EXPLODESA),77359573-9,Cu,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto Aprobado,-32.72399999999993,-70.96199999999999,78,1.0
+Guanaco,GUANACO COMPAÑIA MINERA SPA,78097950-K,Au-Ag,Oro,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-25.133999999999958,-69.59499999999997,69,1.0
+Cerro Buenos Aires,GUANACO COMPAÑIA MINERA SPA,78097950-K,Au-Ag,Oro,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-24.71599999999995,-69.73899999999998,47,1.0
+Las Pampas,GUANACO COMPAÑIA MINERA SPA,78097950-K,Au-Ag,Oro,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-24.682999999999936,-69.64199999999994,47,1.0
+PN Bloque III,ANTOFAGASTA MINERALS S.A,93920000-2,Cu,Cobre,Región de Tarapacá,TARAPACÁ,Proyecto Aprobado,-20.662999999999954,-69.24299999999994,-1,1.0
+Capricornio,Minera Capricornio SpA,76923933-2,Au-Ag-Cu-Pb-Zn,Oro,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.51690899999994,-69.84974299999993,45,1.0
+Exploración Minera Florida 2023,Minera Florida Limitada,76591160-5,Au-Ag,Oro,Región Metropolitana,REGIÓN METROPOLITANA,Proyecto Aprobado,-34.000580999999954,-70.98691599999995,14,1.0
+Puquios,Cuprum Resources Chile SPA,76125921-0,Cu,Cobre,Región de Coquimbo,COQUIMBO,Proyecto Aprobado,-29.44486999999998,-70.71565499999997,79,1.0
+Pampa Paciencia 2022,ASTRA EXPLORATION CHILE SpA,77359794-4,"Au-Ag
+",Oro,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.732472879999932,-69.40899999999993,60,1.0
+Comahue,NEXT MINERALS S.A.,76309929-6,Cu-Ag,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.49069230999993,-70.25399999999996,55,1.0
+Las Marías continuacion,Mantos de la Luna,96939240-7,Cu-Ag,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.285961719999932,-70.18699999999995,86,1.0
+Bellaco,Mantos de la Luna,96939240-7,Cu-Ag,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-22.539122159999977,-70.20299999999997,71,1.0
+Capricornio,MINERA CAPRICORNIO Spa,76923933-2,Au-Ag-Cu,Oro,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.516882059999944,-69.85499999999996,45,1.0
+Pampa,MINERA CAPRICORNIO Spa,76923933-2,Au-Ag-Cu,Oro,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.49883176999998,-69.85199999999998,45,1.0
+Ilusion,MINERA CAPRICORNIO Spa,76923933-2,Au-Ag-Cu,Oro,Región de Antofagasta,ANTOFAGASTA,Proyecto Aprobado,-23.519206749999967,-69.84199999999998,45,1.0
+Yerbas Buenas,YERBAS BUENAS SPA,76381095-K,Fe-V,Hierro,Región de Coquimbo,COQUIMBO,Proyecto en Evaluación,-29.600862999999947,-71.27478299999996,59,1.0
+Candeleros,VALE EXPLORACIONES CHILE LTDA.,76031013-1,Cu,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto en Evaluación,-25.370019999999954,-69.39758999999998,-1,1.0
+Florencia,VALE EXPLORACIONES CHILE LTDA.,76031013-1,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto en Evaluación,-25.871821999999952,-69.16968399999996,-1,1.0
+Block 4,PAMPA METALS CHILE SPA,77190753-9,Cu-Mo,Cobre,Región de Antofagasta,ANTOFAGASTA,Proyecto en Evaluación,-22.26943499999993,-69.15957099999997,23,1.0
+Playa,MINERA NITTETSU CHILE LTDA.,78442450-2,Cu-Au,Cobre,Región de Atacama,ATACAMA,Proyecto en Evaluación,-26.785274999999956,-70.37311999999997,-1,1.0
+Copiapó_Norte,MINERA NITTETSU CHILE LTDA.,78442450-2,Cu-Au,Cobre,Región de Atacama,ATACAMA,Proyecto en Evaluación,-27.304341999999963,-70.28026399999999,31,1.0
+Teresa,COMPAÑIA RECURSOS ANDINA LIMITADA,77119399-4,Au-Cu-Ag,Oro,Región de Atacama,ATACAMA,Proyecto en Evaluación,-28.107456999999954,-70.92692599999998,-1,1.0
+Salvadora,COMPAÑIA MINERA SAN LORENZO LIMITADA,76453913-3,Au-Cu-Ag,Oro,Región de Atacama,ATACAMA,Proyecto en Evaluación,-26.37527499999993,-69.74676599999998,2,1.0
+Cerro Bayo,C.M. CERRO BAYO LTDA.,78543580-K,Au-Ag,Oro,Región de Aysén,AYSÉN,Proyecto en Evaluación,-46.53499999999997,-71.94099999999997,87,1.0
+Libertad,FRESNILLO CHILE SPA,76497341-0,Au-Ag-Cu-Pb-Zn,Oro,Región de Coquimbo,COQUIMBO,Proyecto en Evaluación,-29.667599999999936,-70.84889999999996,7,1.0
+Merced,FRESNILLO CHILE SPA,76497341-0,Au-Ag-Cu-Pb-Zn,Oro,Región de Coquimbo,COQUIMBO,Proyecto en Evaluación,-29.708099999999945,-70.83907999999997,7,1.0
+Primavera,FRESNILLO CHILE SPA,76497341-0,Au-Ag-Cu-Pb-Zn,Oro,Región de Coquimbo,COQUIMBO,Proyecto en Evaluación,-29.724899999999934,-70.85309999999998,7,1.0
+Remolino,FRESNILLO CHILE SPA,76497341-0,Au-Ag-Cu-Pb-Zn,Oro,Región de Coquimbo,COQUIMBO,Proyecto en Evaluación,-29.712857999999983,-70.87454199999996,7,1.0
+Tocopilla,FRESNILLO CHILE SPA,76497341-0,Au-Ag-Cu-Pb-Zn,Oro,Región de Coquimbo,COQUIMBO,Proyecto en Evaluación,-29.714183999999932,-70.86950199999995,7,1.0
+Veterana,FRESNILLO CHILE SPA,76497341-0,Au-Ag-Cu-Pb-Zn,Oro,Región de Coquimbo,COQUIMBO,Proyecto en Evaluación,-29.695361999999932,-70.89995899999997,7,1.0
+Vizcachitas,CIA. MRA. VIZCACHITAS HOLDING,77147590-6,Cu-Ag,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto en Evaluación,-32.411899999999946,-70.43563799999998,74,1.0
+Granate,SOCIEDAD PUNTA DEL COBRE S.A.,96561560-1,Cu-Au,Cobre,Región de Atacama,ATACAMA,Proyecto en Evaluación,-27.46962199999996,-70.27635999999995,3,1.0
+Trillador,SOCIEDAD PUNTA DEL COBRE S.A.,96561560-1,Cu-Au,Cobre,Región de Atacama,ATACAMA,Proyecto en Evaluación,-27.673588999999936,-70.17824599999994,76,1.0
+Punta Gruesa,MDF COPPER CHILE SPA,77312281-4,Cu-Mo,Cobre,Región de Coquimbo,COQUIMBO,Proyecto en Evaluación,-31.168349999999975,-70.81568899999996,-1,1.0
+Checo,MINERA LAS CENIZAS S.A.,79963260-8,Cu-Ag,Cobre,Región de Valparaíso,VALPARAÍSO,Proyecto en Evaluación,-32.51904099999996,-71.05157299999996,67,1.0
+Salar de Maricunga,MINERA SALAR BLANCO S.A.,76602739-3,Li,Otro,Región de Atacama,ATACAMA,Proyecto en Evaluación,-26.90304299999997,-69.09566999999998,70,1.0
+Cluster CNN,CIA. MRA. DEL PACIFICO S.A.,94638000-8,Fe-Cu,Hierro,Región de Atacama,ATACAMA,Proyecto en Evaluación,-27.178001716999972,-70.36280613099996,88,1.0
+Pekin,CIA. MRA. DEL PACIFICO S.A.,94638000-8,Fe-Cu,Hierro,Región de Atacama,ATACAMA,Proyecto en Evaluación,-27.231873243999928,-70.38250519799993,88,1.0
+Liga,CIA. MRA. DEL PACIFICO S.A.,94638000-8,Fe-Cu,Hierro,Región de Atacama,ATACAMA,Proyecto en Evaluación,-27.268551214999945,-70.40837588599999,88,1.0
+Distrito Alcaparra,CIA. MRA. DEL PACIFICO S.A.,94638000-8,Fe-Cu,Hierro,Región de Atacama,ATACAMA,Proyecto en Evaluación,-28.66096865199995,-70.91445529799995,83,1.0
+Alcaparra A,CIA. MRA. DEL PACIFICO S.A.,94638000-8,Fe-Cu,Hierro,Región de Atacama,ATACAMA,Proyecto en Evaluación,-28.667281764999927,-70.91274186299995,83,1.0
+Ojos de Agua,CIA. MRA. DEL PACIFICO S.A.,94638000-8,Fe-Cu,Hierro,Región de Atacama,ATACAMA,Proyecto en Evaluación,-28.67412901299997,-70.92299755699997,83,1.0
+Matilde,CIA. MRA. DEL PACIFICO S.A.,94638000-8,Fe-Cu,Hierro,Región de Atacama,ATACAMA,Proyecto en Evaluación,-29.08717749799996,-70.99599286399996,10,1.0
+Cortadera,CIA. MRA. DEL PACIFICO S.A.,94638000-8,Fe-Cu,Hierro,Región de Atacama,ATACAMA,Proyecto en Evaluación,-29.10775445099995,-71.00536136199997,10,1.0
+Rubi,MINERA MIRASOL CHILE LIMITADA,76907760-K,Cu-Au,Cobre,Región de Atacama,ATACAMA,Proyecto en Evaluación,-26.39540640699994,-69.68562945399998,2,1.0
+Atlas y Titan,MINERA MIRASOL CHILE LIMITADA,76907760-K,,Otro,Región de Atacama,ATACAMA,Proyecto en Evaluación,-25.385042538999983,-68.96656967599995,38,1.0
+Don Eusebio,S. C. M.  ATACAMA KOZAN,77134510-7,Ag,Otro,Región de Atacama,ATACAMA,Proyecto en Evaluación,-27.374140500999943,-70.22650542299994,31,1.0
+Romero,CIA. MRA. LA PATAGUA,84542800-K,,Otro,Región de Valparaíso,VALPARAÍSO,Proyecto en Evaluación,-32.55485729499998,-70.96019074299994,67,1.0
+Flor de Lirio,DICAVE LIMITADA,77990270-6,,Otro,Región de Atacama,ATACAMA,Proyecto en Evaluación,-26.05399441999998,-70.13762407399997,-1,1.0
+Mantos Cobrizos,CIA. MINERA CARMEN BAJO,81556700-5,Cu,Cobre,Región de Atacama,ATACAMA,Proyecto en Evaluación,-27.368564359999937,-70.16980284399995,31,1.0
+Revoltosa,CIA. MINERA CARMEN BAJO,81556700-5,,Otro,Región de Atacama,ATACAMA,Proyecto en Evaluación,-27.535272843999962,-70.35034303699996,3,1.0
+Tigresa,CIA. MINERA CARMEN BAJO,81556700-5,,Otro,Región de Atacama,ATACAMA,Proyecto en Evaluación,-27.515910812999948,-70.38456689899994,3,1.0
